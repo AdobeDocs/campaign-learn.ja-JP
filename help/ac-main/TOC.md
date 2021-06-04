@@ -5,7 +5,7 @@ user-guide-title: Adobe CampaignTutorials
 user-guide-description: Adobe Campaignを使用すると、マーケターはクロス顧客エクスペリエンスを設計し、視覚的なキャンペーン編成、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: ae1ab8936ff47600640c6f4a448c80adc1f1a210
+source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 42%
