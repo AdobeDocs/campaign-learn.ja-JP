@@ -5,10 +5,10 @@ user-guide-title: Adobe CampaignTutorials
 user-guide-description: Adobe Campaignを使用すると、マーケターはクロス顧客エクスペリエンスを設計し、視覚的なキャンペーン編成、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供できます。
 breadcrumb-title: チュートリアル
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
+source-git-commit: ee567c5fbe90ddce24617b3d5a8210c04728b4db
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 43%
+source-wordcount: '301'
+ht-degree: 40%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 43%
 + [概要](/help/overview.md)
 + はじめに {#getting-started}
    + [Adobe Campaign の概要](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Adobe Campaign クライアントのインストールとセットアップ](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Adobe Campaignクライアントのインストールとセットアップ](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Adobe Campaign ユーザーインターフェイスの参照](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/getting-started/manage-marketing-campaigns.md)
    + [マーケティングプラン、プログラム、およびキャンペーンの作成](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 43%
       + [配信品質を考慮した E メールの設計](/help/send-messages/email/design-emails-for-deliverability.md)
       + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
    + SMS {#sms}
-      + [SMS 配信の作成](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [SMS配信の作成](/help/send-messages/mobile/create-a-sms-delivery.md)
    + プッシュ {#push}
       + [モバイルアプリチャネルのインストール](/help/send-messages/mobile/install-the-mobile-app.md)
       + [モバイルSDKExperience Platformを使用したプッシュチャネルの設定](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
