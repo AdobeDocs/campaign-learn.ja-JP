@@ -3,8 +3,7 @@ user-guide-title: Campaign ClassicでのAndroid向けプッシュ通知の概要
 user-guide-description: このチュートリアルでは、Adobe Campaign から Android アプリにプッシュ通知を送信する手順について説明します。
 breadcrumb-title: Android向けプッシュ通知の概要
 breadcrumb-url: /docs/campaign-learn/get-started-with-push-notifications-for-android/introduction.html
-index: true
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+source-git-commit: 404d77c2fafa408c53a8b23794422cbbd38f76ee
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 34%
