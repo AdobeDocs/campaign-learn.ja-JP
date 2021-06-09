@@ -6,7 +6,7 @@ feature: 概要
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+source-git-commit: bdf29c4f660743d0f5d76a3df5425eeff86acd8e
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 20%
@@ -47,7 +47,7 @@ Adobe Campaignは、クロスチャネルの顧客エクスペリエンスを設
       <img alt="Eメール配信の作成とデザイン（ビデオ）" src="./assets/333476.jpg" />
     </a>
     <div>
-      <a href="../content-creation/create-and-design-email-deliveries.md">
+      <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>E メール配信の作成と設計</strong>
     </a>
     </div> 
@@ -60,7 +60,7 @@ Adobe Campaignは、クロスチャネルの顧客エクスペリエンスを設
       <img alt="タイポロジルールを使用した疲労の管理（ビデオ）" src="./assets/333787.jpg" />
     </a>
     <div>
-      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.m">
+      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
     <strong>タイポロジルールを使用した疲労の管理</strong>
     </a>
     </div>
