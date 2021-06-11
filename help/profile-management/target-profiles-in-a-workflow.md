@@ -1,5 +1,5 @@
 ---
-title: ワークフローでのプロファイルのターゲティング
+title: ワークフローでのプロファイルのターゲット設定
 description: キャンペーンワークフローの使用の概要と、ワークフローを作成しフィルター条件を使用してワークフローでプロファイルをターゲティングする方法について説明します。
 feature: ワークフロー
 kt: 7842
@@ -10,14 +10,14 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: 32e930c42dc5c06204ebe250e2ea6aa281c68738
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 
-# ワークフローでのプロファイルのターゲティング
+# ワークフローでのプロファイルのターゲット設定
 
 キャンペーンワークフローの使用の概要と、ワークフローを作成しフィルター条件を使用してワークフローでプロファイルをターゲティングする方法について説明します。
 
@@ -27,4 +27,4 @@ ht-degree: 71%
 
 * [クエリ結果の組み合わせによるターゲットの絞り込み](/help/process-management/refine-targets-by-combining-query-results.md)
 * [クエリ結果の除外によるターゲットの絞り込み](/help/process-management/refine-targets-by-excluding-query-results.md)
-* [リストの更新アクティビティを使用したワークフローを含むリストの作成](/help/process-management/use-the-update-list-activity.md)
+* [リスト更新アクティビティを使用したワークフローでのリストの作成](/help/process-management/use-the-update-list-activity.md)
