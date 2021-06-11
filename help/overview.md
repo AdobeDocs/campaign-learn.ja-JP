@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign V8Tutorials — 概要
-description: Adobe Campaignは、クロスチャネルの顧客エクスペリエンスを設計するためのプラットフォームを提供し、視覚的なキャンペーン編成、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供します。 このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
+title: Adobe Campaign V8 チュートリアル - 概要
+description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計できるプラットフォームであり、キャンペーンの視覚的なオーケストレーション、インタラクションのリアルタイム管理、クロスチャネルの実行などを行える環境です。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 sub-product: Campaign V8
 feature: 概要
 role: Business Practitioner, Administrator, Developer
@@ -9,17 +9,17 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 18%
+ht-degree: 71%
 
 ---
 
-# Adobe Campaign V8Tutorials — 概要
+# Adobe Campaign V8 チュートリアル - 概要
 
-Adobe Campaignは、クロスチャネルの顧客エクスペリエンスを設計するためのプラットフォームを提供し、視覚的なキャンペーン編成、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供します。 このユーザーガイドには、Adobe Campaign V8の様々な機能に関するビデオとチュートリアルが含まれています。
+Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計できるプラットフォームであり、キャンペーンの視覚的なオーケストレーション、インタラクションのリアルタイム管理、クロスチャネルの実行などを行える環境です。このユーザーガイドには、Adobe Campaign V8 の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
 >[!NOTE]
-> Campaign v8は、現在は管理対象Cloud Serviceとしてのみ使用可能で、オンプレミス環境またはハイブリッド環境にデプロイすることはできません。 既存のCampaign Classicv7環境からの移行は、まだ使用できません。
->2つのバージョンの違いについて詳しくは、[Classic v7からV8製品ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html)を参照してください。 ビデオの作成方法については、[Campaign ClassicV7チュートリアル](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)の節も参照してください。
+> Campaign v8 は、現在 Managed Cloud Service としてのみ利用でき、オンプレミス環境またはハイブリッド環境にデプロイすることはできません。既存の Campaign Classic v7 環境からは移行できません。
+>Classic v7 と V8 の違いについては、[Classic v7 と V8 の製品ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html)を参照してください。説明ビデオについては、[Campaign Classic V7 チュートリアル](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)の節も参照してください。
 
 ## 新着情報
 
@@ -48,7 +48,7 @@ Adobe Campaignは、クロスチャネルの顧客エクスペリエンスを設
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
-    <strong>E メール配信の作成と設計</strong>
+    <strong>メール配信の作成とデザイン</strong>
     </a>
     </div> 
     <p>
@@ -73,11 +73,11 @@ Adobe Campaignは、クロスチャネルの顧客エクスペリエンスを設
 </td>
   <td>
     <a href="./reporting/generate-a-descriptive-analysis-report.md">
-      <img alt="記述的分析レポートの生成" src="./assets/333994.jpg" />
+      <img alt="記述的な分析レポートの生成" src="./assets/333994.jpg" />
     </a>
     <div>
       <a href="./reporting/generate-a-descriptive-analysis-report.md">
-    <strong>記述的分析レポートの生成</strong>
+    <strong>記述的な分析レポートの生成</strong>
     </a>
     </div>
     <p>
