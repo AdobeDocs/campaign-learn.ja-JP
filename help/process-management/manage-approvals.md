@@ -1,6 +1,6 @@
 ---
 title: キャンペーンでの承認の管理
-description: 承認とキャンペーンの設定方法、および配信とワークフローの承認を区別する方法について説明します。
+description: キャンペーンと承認を設定する方法、および配信の承認とワークフローの承認の違いについて説明します。
 feature: 'ワークフロー、承認 '
 kt: 7787
 thumbnail: 329605.jpg
@@ -10,17 +10,17 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 23%
+ht-degree: 100%
 
 ---
 
 
 # キャンペーンでの承認の管理
 
-承認により、オペレーターはワークフロー管理に関する意思決定をおこなったり、実行の継続を確定したりできます。
+ワークフローを管理する意思決定や、ワークフローを継続して実行する確認などは、承認に基づいておこないます。
 
-承認とキャンペーンの設定方法、および配信とワークフローの承認を区別する方法について説明します。
+キャンペーンと承認を設定する方法、および配信の承認とワークフローの承認の違いについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12)
