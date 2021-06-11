@@ -1,6 +1,6 @@
 ---
 title: タイポロジルールを使用した疲労の管理。
-description: タイポロジルールを適用して疲労管理を実装する方法を説明します。
+description: タイポロジルールを活用して疲労管理を実装する方法を説明します。
 feature: 疲労管理
 kt: 7959
 thumbnail: 333787.jpg
@@ -12,7 +12,7 @@ level: Beginner
 source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 39%
+ht-degree: 73%
 
 ---
 
@@ -27,5 +27,5 @@ ht-degree: 39%
 
 ## その他のリソース
 
-* [キャンペーンタイポロジについて](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en)
-* [頻度ルールによるマーケティング疲労の管理](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=en)
+* [キャンペーンタイポロジについて](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ja)
+* [頻度ルールによるマーケティング疲労の管理](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=ja)
