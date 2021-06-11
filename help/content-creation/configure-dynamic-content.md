@@ -15,7 +15,7 @@ hidefromtoc: true
 source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -27,5 +27,5 @@ ht-degree: 83%
 
 ## その他のリソース
 
-* [動的コンテンツブロックを使用した E メールのパーソナライズ](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [パーソナライゼーションフィールドを使用したEメールのパーソナライズ](/help/content-creation/personalize-emails-using-personalization-fields.md)
+* [動的コンテンツブロックを使用したメールのパーソナライズ](/help/content-creation/personalize-using-dynamic-content-blocks.md)
+* [パーソナライゼーションフィールドを使用したメールのパーソナライズ](/help/content-creation/personalize-emails-using-personalization-fields.md)
