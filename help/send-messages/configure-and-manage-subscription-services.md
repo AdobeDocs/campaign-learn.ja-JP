@@ -10,15 +10,15 @@ team: WWFRE
 role: Business Practitioner, Administrator, Developer
 level: Experienced
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 
 # 購読サービスの設定と管理
 
-購読とターゲットの購読者を設定および管理する方法について説明します。
+購読とターゲット購読者を設定し管理する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329941?quality=12)
