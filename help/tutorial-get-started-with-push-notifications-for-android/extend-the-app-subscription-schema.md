@@ -1,6 +1,6 @@
 ---
 title: アプリ購読スキーマを拡張して、プッシュ通知をパーソナライズする
-description: モバイルアプリから Campaign が受け取るパーソナライズ値を格納できるようにアプリ購読スキーマを拡張する方法について説明します。
+description: モバイルアプリから Campaign が受け取るパーソナライズ値を格納できるように、アプリ購読スキーマを拡張する方法について説明します。
 feature: プッシュ、スキーマ拡張
 kt: 7967
 thumbnail: 327306.jpg
@@ -10,9 +10,9 @@ team: TM
 role: Administrator, Developer
 level: Experienced
 source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 71%
 
 **次のステップ**
 
-手順2:[Android™サービスを設定し、CampaignでAndroid™モバイルアプリケーションを作成します](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
+手順 2：[Campaign で Android™ サービスを設定して Android™ モバイルアプリケーションを作成する](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
