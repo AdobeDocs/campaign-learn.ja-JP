@@ -1,6 +1,6 @@
 ---
 source-git-commit: c2b4ec492f591c5b0f06f74d42b94ff527d5cdeb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '430'
 ht-degree: 100%
 
@@ -15,13 +15,13 @@ ht-degree: 100%
 
 ## アドビコンテンツへの投稿について
 
-[アドビドキュメント投稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+[アドビドキュメント投稿者ガイド](https://docs.adobe.com/content/help/ja/contributor/contributor-guide/introduction.html)を参照してください。
 
 投稿の方法は、投稿者の立場および提供される変更の内容によって異なります。
 
 ### 細部の変更
 
-細部の変更を善意でおこなっていただける場合は、記事にアクセスし、その記事の&#x200B;**編集**&#x200B;リンクをクリックして記事の GitHub ソースに移動します。次に、GitHub UI を使用して更新をおこないます。詳細については、全般的な[アドビドキュメント投稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+細部の変更を善意でおこなっていただける場合は、記事にアクセスし、その記事の&#x200B;**編集**&#x200B;リンクをクリックして記事の GitHub ソースに移動します。次に、GitHub UI を使用して更新をおこないます。詳細については、全般的な[アドビドキュメント投稿者ガイド](https://docs.adobe.com/content/help/ja/contributor/contributor-guide/introduction.html)を参照してください。
 
 このリポジトリ内のドキュメントおよびコード例の細部の修正や明確化については、アドビ利用条件でカバーされます。
 
@@ -43,7 +43,7 @@ Adobe Experience Cloud ソリューションのテクニカルライター、プ
 
 コミュニティの投稿者は、GitHub UI を使用して基本的な編集をおこなったり、リポジトリをフォークして大幅な変更をおこなえます。
 
-詳しくは、[アドビドキュメント投稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+詳しくは、[アドビドキュメント投稿者ガイド](https://docs.adobe.com/content/help/ja/contributor/contributor-guide/introduction.html)を参照してください。
 
 ## Markdown を使用してトピックをフォーマットする方法
 
