@@ -1,6 +1,6 @@
 ---
 title: 組み込みレポートへのアクセス
-description: 組み込みのレポートと分析を理解し、配信レポートの生成方法を学びます。
+description: 組み込みのレポートと分析について説明し、配信レポートの生成方法を説明します。
 feature: レポート
 kt: 7784
 thumbnail: 329935.jpg
@@ -10,15 +10,15 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
 
 # 組み込みレポートへのアクセス
 
-理解  Adobe Campaignの組み込みのレポートと分析を参照し、配信レポートの生成方法を確認してください。
+Adobe Campaign に組み込まれたレポートと分析、配信レポートの生成方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
