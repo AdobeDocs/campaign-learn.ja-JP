@@ -1,23 +1,23 @@
 ---
 title: アドホックなメール配信テンプレートのデプロイ
-description: 'アドホックなメール配信テンプレートをデプロイする方法と、メール配信と配信ワークフローの違いについて説明します。 '
+description: アドホックなメール配信テンプレートをデプロイする方法と、メール配信と配信ワークフローの違いについて説明します。
 feature: 配信テンプレート
 kt: 7963
 thumbnail: 24065.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: 570465ac-cfe9-4ef5-8bc9-6776762830b1
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
 ---
 
-
-# アドホックなメール配信テンプレートのデプロイ{#deploying-delivery-templates}
+# アドホックなメール配信テンプレートのデプロイ {#deploying-delivery-templates}
 
 このビデオでは、アドホックなメール配信テンプレートをデプロイする方法と、メール配信と配信ワークフローの違いについて説明します。
 
