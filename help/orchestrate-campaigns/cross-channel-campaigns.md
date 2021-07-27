@@ -1,28 +1,26 @@
 ---
 title: クロスチャネルキャンペーンの作成
-description: チャネル間のキャンペーンの作成方法を説明します。
+description: 顧客の最初の配信とのインタラクションに基づいて、Eメールとダイレクトメールの配信を使用してクロスチャネルキャンペーンを作成する方法を説明します。
 feature: ワークフロー
-kt: 7018
-thumbnail: 330990.jpg
+kt: 7798
+thumbnail: 335607.jpg
 doc-type: feature video
 activity: use
 team: TM
-hide: true
-hidefromtoc: true
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # クロスチャネルキャンペーンの作成
 
-クロスチャネルキャンペーンでは、1 つのマーケティングコミュニケーションを複数のチャネルで行うことができ、受信者が好むチャネルを介してより広いターゲットのオーディエンスにアプローチできます。
+クロスチャネルキャンペーンでは、1つのマーケティングコミュニケーションが異なるチャネルを使用します。 データはチャネル間で渡されます。 顧客は、例えば、前回の通信とのやり取りに基づいて、複数のチャネルを介して通信を受け取る。
 
-メール、SMS、ダイレクトメールの配信を使用したクロスチャネルキャンペーンの作成方法を説明します。
+顧客の最初の配信とのインタラクションに基づいて、Eメールとダイレクトメールの配信を使用してクロスチャネルキャンペーンを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12)
 
 ## その他のリソース
 
