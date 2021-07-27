@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ab58641e8805dd14b045ca497896f94e3b81647
+source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 96%
 # Adobe Campaign v8 チュートリアル {#tutorials}
 
 + [概要](/help/overview.md)
-+ はじめに{#getting-started}
-   + [Adobe Campaign の概要](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Adobe Campaignクライアントのインストールとセットアップ](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [Adobe Campaign ユーザーインターフェイスについて](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-   + [マーケティングキャンペーンの管理](/help/getting-started/manage-marketing-campaigns.md)
-   + [マーケティングプラン、プログラムおよびキャンペーンの作成](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
-   + [イベントトリガーキャンペーンの作成](/help/getting-started/create-event-triggered-campaigns.md)
++ {#getting-started}を使い始める
+   + [Adobe Campaign の概要](/help/get-started/introduction-to-adobe-campaign.md)
+   + [Adobe Campaignクライアントのインストールとセットアップ](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Adobe Campaign ユーザーインターフェイスについて](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [マーケティングキャンペーンの管理](/help/get-started/manage-marketing-campaigns.md)
+   + [マーケティングプラン、プログラムおよびキャンペーンの作成](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
+   + [イベントトリガーキャンペーンの作成](/help/get-started/create-event-triggered-campaigns.md)
 + プロファイル管理{#profile-management}
    + [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
    + [ワークフローでのプロファイルのターゲット設定](/help/profile-management/target-profiles-in-a-workflow.md)
@@ -66,11 +66,11 @@ ht-degree: 96%
    + [ワークフローの作成](/help/process-management/create-a-workflow.md)
    + [繰り返し配信と連続配信の作成](/help/process-management/recurring-deliveries.md)
    + [ターゲティングワークフローの作成](/help/process-management/create-a-targeting-workflow.md)
-   + [リスト更新アクティビティを使用したワークフローでのリストの作成](/help/process-management/use-the-update-list-activity.md)
    + [クエリ結果の組み合わせによるターゲットの絞り込み](/help/process-management/refine-targets-by-combining-query-results.md)
    + [クエリ結果の除外によるターゲットの絞り込み](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [検証ワークフローの作成](/help/process-management/create-validation-workflows.md)
    + [承認の管理](/help/process-management/manage-approvals.md)
+   + [リスト更新アクティビティの使用](/help/process-management/use-the-update-list-activity.md)
    + [エンリッチメントアクティビティの設定](/help/process-management/enrichment-activity.md)
 + データ管理{#data-management}
    + [プロファイルのインポート](/help/data-management/import-profiles.md)
