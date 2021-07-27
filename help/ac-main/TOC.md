@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 0ca9bf3d2eb01fb00e769bd2edf217b904183203
+source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 92%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 92%
 + [概要](/help/overview.md)
 + {#getting-started}を使い始める
    + [Adobe Campaign の概要](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Adobe Campaignクライアントのインストールとセットアップ](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Adobe Campaign Client Consoleのインストールと設定](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Adobe Campaign ユーザーインターフェイスについて](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/get-started/manage-marketing-campaigns.md)
    + [マーケティングプラン、プログラムおよびキャンペーンの作成](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
