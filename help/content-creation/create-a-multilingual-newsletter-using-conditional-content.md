@@ -3,14 +3,14 @@ title: 条件付きコンテンツを使用した多言語ニュースレター�
 description: 多言語ニュースレターを例に、条件付きコンテンツを配信に追加する方法を説明します。
 feature: 動的コンテンツ
 kt: 7792
-thumbnail: 24926.jpg
+thumbnail: 335682.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: d139ae2c913c4b46d1683a2f1a30b9cb30988d09
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 多言語ニュースレターを例に、条件付きコンテンツを配信に追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12)
 
 ## その他のリソース
 
