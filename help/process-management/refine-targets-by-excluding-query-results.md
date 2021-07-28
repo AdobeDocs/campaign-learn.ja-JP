@@ -1,27 +1,27 @@
 ---
 title: クエリ結果の除外によるターゲットの絞り込み
-description: 標準的な除外をワークフローに適用してターゲットを絞り込む方法を説明します。また、定義済みフィルターを作成する方法と、ワークフローのトラブルシューティングを行う方法についても説明します。
+description: 標準的な除外をワークフローに適用してターゲットを絞り込む方法、定義済みフィルターの作成方法、ワークフローの撮影に関する問題の解決方法について説明します。
 feature: ワークフロー、ターゲティングアクティビティ、クエリエディター
 kt: 7845
-thumbnail: 36826.jpg
+thumbnail: 335609.jpg
 doc-type: feature video
 activity: use
-team: WWFRE
+team: TM
 role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 3ea823cd6d68b646e8d1e2b7d6ea672dc0bf2bf0
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 46%
 
 ---
 
 # クエリ結果の除外によるターゲットの絞り込み
 
-**[!UICONTROL 標準的な除外]**&#x200B;をワークフローに適用して、ターゲットを絞り込む方法を説明します。また、定義済みフィルターを作成する方法と、ワークフローのトラブルシューティングを行う方法についても説明します。
+**[!UICONTROL 標準の除外]**&#x200B;をワークフローに適用してターゲットを絞り込む方法と、定義済みフィルターの作成方法、およびワークフローの撮影に関する問題の解決方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
 
 ## その他のリソース
 
