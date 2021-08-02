@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign ユーザーインターフェイスについて
-description: Adobe Campaign のユーザーインターフェイスと、主な機能の操作方法を説明します。
+description: Adobe Campaign V8ユーザーインターフェイスと主な機能の操作方法について説明します。
 feature: 概要
 kt: 7828
 thumbnail: 334496.jpg
@@ -9,15 +9,15 @@ activity: understand
 team: TM
 role: User
 level: Beginner
-source-git-commit: 39d79c9d853214b91e4f192fb01381473ec06ca0
+source-git-commit: 78ccc8b03e404a67cce1843780fa78dc4c28d074
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Adobe Campaign ユーザーインターフェイスについて
 
-Adobe Campaign のユーザーインターフェイスと、主な機能の操作方法を説明します。
+Adobe Campaign V8ユーザーインターフェイスと主な機能の操作方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12)
