@@ -1,6 +1,6 @@
 ---
 title: クエリ結果の組み合わせによるターゲットの絞り込み
-description: 積集合や和集合のアクティビティを使用してワークフローのクエリ結果を組み合わせ、ターゲットを絞り込む方法を説明します。
+description: 積集合アクティビティまたは和集合アクティビティを使用してクエリ結果を組み合わせ、ワークフローでターゲットを絞り込む方法を説明します。
 feature: ワークフロー、ターゲティングアクティビティ、クエリエディター
 kt: 7844
 thumbnail: 334304.jpg
@@ -10,16 +10,16 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 54bfc29ea7ad14325b13f8ca488c4ff207c2f3a8
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # クエリ結果の組み合わせによるターゲットの絞り込み
 
-**[!UICONTROL 積集合]**&#x200B;または&#x200B;**[!UICONTROL 和集合]**&#x200B;アクティビティを使用してワークフローのクエリ結果を組み合わせ、ターゲットを絞り込む方法を説明します。
+積集合アクティビティまたは和集合アクティビティを使用してクエリ結果を組み合わせ、ワークフローでターゲットを絞り込む方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
 
