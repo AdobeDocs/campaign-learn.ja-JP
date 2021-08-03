@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
+source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 92%
+ht-degree: 91%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 92%
    + [マーケティングキャンペーンの管理](/help/get-started/manage-marketing-campaigns.md)
    + [マーケティングプラン、プログラムおよびキャンペーンの作成](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [イベントトリガーキャンペーンの作成](/help/get-started/create-event-triggered-campaigns.md)
-+ プロファイル管理{#profile-management}
++ プロファイル管理 {#profile-management}
    + [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
    + [ワークフローでのプロファイルのターゲット設定](/help/profile-management/target-profiles-in-a-workflow.md)
-+ キャンペーンオーケストレーション{#campaign-orchestration}
++ キャンペーンオーケストレーション {#campaign-orchestration}
    + [キャンペーンの実行](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [マルチキャンペーンとクロスキャンペーンの概要](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [マルチチャネルキャンペーンの作成](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -72,7 +72,7 @@ ht-degree: 92%
    + [承認の管理](/help/process-management/manage-approvals.md)
    + [リスト更新アクティビティの使用](/help/process-management/use-the-update-list-activity.md)
    + [エンリッチメントアクティビティの設定](/help/process-management/enrichment-activity.md)
-+ データ管理{#data-management}
++ データ管理 {#data-management}
    + [プロファイルのインポート](/help/data-management/import-profiles.md)
    + [データのレプリケーション](/help/data-management/data-replication.md)
 + 他のソリューションとの接続{#connect}
