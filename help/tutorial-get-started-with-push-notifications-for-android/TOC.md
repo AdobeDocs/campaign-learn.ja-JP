@@ -4,14 +4,14 @@ user-guide-description: このチュートリアルでは、Adobe Campaign か�
 breadcrumb-title: Android 向けプッシュ通知の使用を開始する
 breadcrumb-url: /docs/campaign-learn/get-started-with-push-notifications-for-android/introduction.html
 source-git-commit: 404d77c2fafa408c53a8b23794422cbbd38f76ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
 ---
 
 
-# Android™ 向けプッシュ通知の使用を開始する{#get-started-with-push-notifications-for-android}
+# Android™ 向けプッシュ通知の使用の開始 {#get-started-with-push-notifications-for-android}
 
 + [Android 向けプッシュ通知の概要 - はじめに](/help/tutorial-get-started-with-push-notifications-for-android/introduction.md)
 + [ステップ 1：アプリの購読スキーマを拡張してプッシュ通知をパーソナライズする](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
