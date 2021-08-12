@@ -10,13 +10,13 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '239'
 ht-degree: 100%
 
 ---
 
-# 繰り返しおよび連続 E メールキャンペーンの設定方法
+# 繰り返しメールキャンペーンと連続メールキャンペーンの設定方法
 
 このチュートリアルでは、繰り返し配信と連続配信の設定方法およびこれら 2 つのアプローチの違いについて説明します。
 
@@ -42,6 +42,6 @@ ht-degree: 100%
 
 ## 連続配信の設定方法 {#how-to-set-up-a-continuous-delivery}
 
-このビデオでは、増分クエリを使用して連続配信を設定する方法について説明します。
+このビデオでは、増分処理クエリを使用して連続配信を設定する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
