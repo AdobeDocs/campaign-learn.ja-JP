@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 パーソナライゼーションフィールドは、配信されるメッセージのコンテンツをパーソナライズする第 1 レベルの手段として使用されます。メインコンテンツに挿入したフィールドが、選択したデータソースからのデータの挿入位置を示します。
 
-パーソナライゼーションフィールドを件名行と E メール配信のコンテンツに追加する方法について説明します。
+パーソナライゼーションフィールドをメール配信の件名とコンテンツに追加する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
