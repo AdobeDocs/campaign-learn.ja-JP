@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign を使用すると、マーケターは�
 breadcrumb-title: チュートリアル
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 91%
 # Adobe Campaign v8 チュートリアル {#tutorials}
 
 + [概要](/help/overview.md)
-+ {#getting-started}を使い始める
++ はじめに {#getting-started}
    + [Adobe Campaign の概要](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Adobe Campaign Client Consoleのインストールと設定](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
+   + [Adobe Campaign クライアントコンソールのインストールと設定](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Adobe Campaign ユーザーインターフェイスについて](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/get-started/manage-marketing-campaigns.md)
    + [マーケティングプラン、プログラムおよびキャンペーンの作成](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -26,7 +26,7 @@ ht-degree: 91%
 + プロファイル管理 {#profile-management}
    + [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
    + [ワークフローでのプロファイルのターゲット設定](/help/profile-management/target-profiles-in-a-workflow.md)
-+ キャンペーンオーケストレーション {#campaign-orchestration}
++ Campaign オーケストレーション {#campaign-orchestration}
    + [キャンペーンの実行](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [マルチキャンペーンとクロスキャンペーンの概要](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [マルチチャネルキャンペーンの作成](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 91%
       + [配信品質を考慮したメールの設計](/help/send-messages/email/design-emails-for-deliverability.md)
       + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
    + SMS{#sms}
-      + [SMS配信の作成](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [SMS 配信の作成](/help/send-messages/mobile/create-an-sms-delivery.md)
    + プッシュ{#push}
       + [モバイルアプリチャネルのインストール](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Experience Platform モバイル SDK を使用したプッシュチャネルの設定](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -70,12 +70,12 @@ ht-degree: 91%
    + [クエリ結果の除外によるターゲットの絞り込み](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [検証ワークフローの作成](/help/process-management/create-validation-workflows.md)
    + [承認の管理](/help/process-management/manage-approvals.md)
-   + [リスト更新アクティビティの使用](/help/process-management/use-the-update-list-activity.md)
+   + [リストを更新アクティビティの使用](/help/process-management/use-the-update-list-activity.md)
    + [エンリッチメントアクティビティの設定](/help/process-management/enrichment-activity.md)
 + データ管理 {#data-management}
    + [プロファイルのインポート](/help/data-management/import-profiles.md)
-   + [データのレプリケーション](/help/data-management/data-replication.md)
-+ 他のソリューションとの接続{#connect}
+   + [データレプリケーション](/help/data-management/data-replication.md)
++ 他のソリューションとの接続 {#connect}
    + [Snowflake でのビッグデータ管理](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Dynamics 365 との統合](/help/connect/dynamics365-integration.md)
 + レポート{#reporting}
