@@ -6,16 +6,19 @@ feature: 概要
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
+source-git-commit: 813c9af51ac9605455d97e7a07c58d02520b62b1
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 100%
+source-wordcount: '339'
+ht-degree: 86%
 
 ---
 
 # Adobe Campaign V8 チュートリアル - 概要
 
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計できるプラットフォームであり、キャンペーンの視覚的なオーケストレーション、インタラクションのリアルタイム管理、クロスチャネルの実行などを行える環境です。このユーザーガイドには、Adobe Campaign V8 の数々の特長や機能に関するビデオとチュートリアルが含まれています。
+
+>[!INFO]
+> 質問は？ 経験を共有したり、同僚と意見を交換したりしますか？ または、Adobeチームの学習コンテンツに関するフィードバックをお持ちですか。 [Adobe Campaignの学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)で会話に参加します。
 
 >[!NOTE]
 > Campaign v8 は、現在 Managed Cloud Service としてのみ利用でき、オンプレミス環境またはハイブリッド環境にデプロイすることはできません。既存の Campaign Classic v7 環境からは移行できません。
