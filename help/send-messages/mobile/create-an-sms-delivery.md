@@ -1,6 +1,6 @@
 ---
-title: SMS配信の作成方法
-description: SMS配信の作成方法を説明します。
+title: SMS 配信の作成方法
+description: SMS 配信の作成方法を説明します。
 feature: SMS
 kt: 7797
 thumbnail: 335706.jpg
@@ -9,14 +9,14 @@ activity: use
 team: TM
 exl-id: 7a19b3a5-e736-41c4-a443-7110e0dd45cd
 source-git-commit: e6a3f8d3afaa324bc003e7cf3d400d3bfde3ffbd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '25'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# SMS配信の作成
+# SMS 配信の作成
 
-SMS配信の作成方法を説明します。
+SMS 配信の作成方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335706)
