@@ -10,14 +10,14 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4338d42f-14e0-48b1-93ff-2155e6ed9f10
-source-git-commit: bc664b8392eb3f42940f25e30f697e1ce2ec4ef4
+source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
 ---
 
-# マーケティングプラン、プログラム、およびキャンペーンの作成
+# マーケティングプラン、プログラムおよびキャンペーンの作成
 
 マーケティングプラン、プログラム、キャンペーンを作成する方法、キャンペーンのプロパティを設定する方法、スケジュールの使用方法について説明します。
 このビデオでは、ご利用のインスタンスで実行できる演習について説明します。
