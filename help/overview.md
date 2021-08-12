@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 >[!NOTE]
 > Campaign v8 は、現在 Managed Cloud Service としてのみ利用でき、オンプレミス環境またはハイブリッド環境にデプロイすることはできません。既存の Campaign Classic v7 環境からは移行できません。
->Classic v7 と V8 の違いについては、[Classic v7 と V8 の製品ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html)を参照してください。説明ビデオについては、[Campaign Classic V7 チュートリアル](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)の節も参照してください。
+>Classic v7 と V8 の違いについては、[Classic v7 と V8 の製品ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=ja)を参照してください。説明ビデオについては、[Campaign Classic V7 チュートリアル](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)の節も参照してください。
 
 ## 新着情報
 
-[主な機能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[主な機能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ja)
 
 ## アドビのお勧め
 
@@ -44,7 +44,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
   </td>
    <td>
     <a href="./content-creation/create-and-design-email-deliveries.md">
-      <img alt="Eメール配信の作成とデザイン（ビデオ）" src="./assets/333476.jpg" />
+      <img alt="メール配信の作成とデザイン（ビデオ）" src="./assets/333476.jpg" />
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
@@ -52,20 +52,20 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     </div> 
     <p>
-    <em>E メール配信を作成するプロセスを理解し、E メールコンテンツを設計およびパーソナライズする方法を学びます。</em>
+    <em>メール配信を作成するプロセスを理解し、メールコンテンツをデザインおよびパーソナライズする方法を説明します。</em>
     <p>
   </td>
   <td>
     <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-      <img alt="タイポロジルールを使用した疲労の管理（ビデオ）" src="./assets/333787.jpg" />
+      <img alt="タイポロジルールを使用した疲労管理（ビデオ）" src="./assets/333787.jpg" />
     </a>
     <div>
       <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-    <strong>タイポロジルールを使用した疲労の管理</strong>
+    <strong>タイポロジルールを使用した疲労管理</strong>
     </a>
     </div>
     <p>
-    <em>タイポロジルールを使用してAdobe Campaignで疲労管理を実装する方法を説明します。  </em>
+    <em>タイポロジルールを使用して Adobe Campaign に疲労管理を実装する方法を説明します。</em>
     <p>
   </td>
 </tr>
@@ -77,11 +77,11 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     <div>
       <a href="./reporting/generate-a-descriptive-analysis-report.md">
-    <strong>記述的な分析レポートの生成</strong>
+    <strong>記述的分析レポートの生成</strong>
     </a>
     </div>
     <p>
-    <em>ワークフローから[!UICONTROL記述的分析レポート]を生成する方法を説明します。</em>
+    <em>ワークフローから記述的分析レポートを生成する方法を説明します。</em>
     <p>
   </td>
 
@@ -89,4 +89,4 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## その他のリソース
 
-* [ドキュメント](https://experienceleague.adobe.com/docs/campaign-v8.html)
+* [ドキュメント](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja)
