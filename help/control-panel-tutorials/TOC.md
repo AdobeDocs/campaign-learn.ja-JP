@@ -7,17 +7,17 @@ index: true
 feature: Campaign コントロールパネル
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 48%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 
 # Adobe Campaign コントロールパネル - チュートリアル {#control-panel}
 
-+ [Campaign コントロールパネルの概要](/help/control-panel-tutorials/control-panel-overview.md)
++ [概要](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign コントロールパネル](/help/control-panel-tutorials/get-started.md)
 + SFTP 管理{#sftp-management}
    + [サーバー容量の監視](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
@@ -28,8 +28,8 @@ ht-degree: 48%
    + [許可リストへのIPアドレスの追加](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [URLアクセス権限の追加](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + GPG キー管理{#gpg-key-management}
-      + [GPG キー管理 - 概要](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [データ暗号化用のGPGキーの生成とインストール](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
+      + [概要](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [GPGキーの生成とインストール](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys.md)
       + [GPGキーを使用したデータの暗号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [データを復号化](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + パフォーマンス監視{#performance-monitoring}
