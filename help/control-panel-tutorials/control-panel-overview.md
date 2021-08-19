@@ -1,23 +1,23 @@
 ---
 title: コントロールパネル- 概要
-description: Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンス別のSFTPストレージの管理、GPGキーまたはサブドメインと証明書の管理などの管理タスクを実行できます。
-landing-page-description: コントロールパネルを使用すると、 Campaign 管理者は、主要なアセットを監視したり、SFTP ストレージ、GPG キー、またはサブドメインと証明書の管理などの管理タスクを実行できます。
-feature: コントロールパネル
+description: Campaign コントロールパネルを使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンス別のSFTPストレージの管理、IPアドレスの許可リストへの登録、GPGキーの管理などの管理タスクを実行できます。
+landing-page-description: Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンス単位のSFTPストレージの管理、IPアドレスの許可リストへの登録、GPGキーの管理などの管理タスクを実行できます。
+feature: Campaign コントロールパネル
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 54%
+source-wordcount: '216'
+ht-degree: 41%
 
 ---
 
 # Campaign コントロールパネル - 概要
 
-Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンス別のSFTPストレージの管理、GPGキーまたはサブドメインと証明書の管理などの管理タスクを実行できます。
+Campaign コントロールパネルを使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンス別のSFTPストレージの管理、IPアドレスの許可リストへの登録、GPGキーの管理などの管理タスクを実行できます。
 
 ## アドビのお勧め
 
