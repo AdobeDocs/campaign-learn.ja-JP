@@ -6,10 +6,10 @@ feature: 概要
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
+source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 77%
+source-wordcount: '364'
+ht-degree: 78%
 
 ---
 
@@ -25,8 +25,6 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 >Classic v7 と V8 の違いについては、[Classic v7 と V8 の製品ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=ja)を参照してください。説明ビデオについては、[Campaign Classic V7 チュートリアル](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)の節も参照してください。
 
 ## 新着情報
-
-Adobe Campaign v8の[主な機能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ja)の概要です。
 
 * **[コントロールパネル](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
 
