@@ -1,32 +1,23 @@
 ---
 title: コントロールパネル- 概要
-description: Adobe Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の SFTP ストレージの管理や、GPG キーまたはサブドメインと証明書の管理などの管理タスクを実行したりできます。
+description: Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンス別のSFTPストレージの管理、GPGキーまたはサブドメインと証明書の管理などの管理タスクを実行できます。
 landing-page-description: コントロールパネルを使用すると、 Campaign 管理者は、主要なアセットを監視したり、SFTP ストレージ、GPG キー、またはサブドメインと証明書の管理などの管理タスクを実行できます。
 feature: コントロールパネル
-kt: 3262
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
-exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: e64bbfc8f0afd2e4a6b3bd98b261e0554ff51a78
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 84%
+source-wordcount: '212'
+ht-degree: 54%
 
 ---
 
 # Campaign コントロールパネル - 概要
 
-Adobe Campaign コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の SFTP ストレージの管理や、GPG キーまたはサブドメインと証明書の管理などの管理タスクを実行したりできます。
-
-## 新機能
-
-* **[データベースの監視](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
-
-   *インスタンスのデータベース使用状況を監視する方法を説明します。*
+Adobe CampaignCampaign コントロールパネルを使用すると、Adobe Campaign管理者は、主要なアセットを監視し、インスタンス別のSFTPストレージの管理、GPGキーまたはサブドメインと証明書の管理などの管理タスクを実行できます。
 
 ## アドビのお勧め
 
@@ -46,11 +37,11 @@ Adobe Campaign コントロールパネルを使用すると、Adobe Campaign �
     <p>
   </td>
   <td>
-    <a href="./generate-and-install-gpg-keys-for-data-encryption.md">
+    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
       <img alt="SFTP サーバーへの接続" src="./assets/36386.jpg" />
     </a>
     <div>
-      <a href="./generate-and-install-gpg-keys-for-data-encryption.md">
+      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
     <strong>データ暗号化用のGPGキーの生成とインストール</strong>
     </a>
     </div>
