@@ -7,10 +7,10 @@ index: true
 feature: Campaign コントロールパネル
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 46%
+source-wordcount: '89'
+ht-degree: 49%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 46%
 + [Campaign コントロールパネル](/help/control-panel-tutorials/get-started.md)
 + SFTP 管理{#sftp-management}
    + [サーバー容量の監視](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
-   + [IP範囲の追加をに許可リスト行う](/help/control-panel-tutorials/sftp-management/add-ip-range-to-allowlist.md)
+   + [許可リストのIP範囲](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
    + [SSHキーの生成](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTPサーバーへの接続](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + インスタンス設定{#instance-settings}
-   + [許可リストへのIPアドレスの追加](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+   + [許可リストのIPアドレス](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
    + [URLアクセス権限の追加](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + GPG キー管理{#gpg-key-management}
       + [概要](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
