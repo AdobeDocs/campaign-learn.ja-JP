@@ -9,10 +9,10 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 1febbcfc007f231ef797ef203830df9c0ef1a14e
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 72%
+ht-degree: 67%
 
 ---
 
@@ -25,7 +25,7 @@ Campaign コントロールパネルで SFTP 管理にアクセスするには�
 * [Experience Cloud ホーム](https://experience.adobe.com/#/home)／ソリューション選択：**[!DNL Campaign]**／**Campaign コントロールパネル**&#x200B;カード／**SFTP** カード
 
    または
-* URL（[http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)）で直接移動
+* URLから直接移動：[https://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
 ## SFTPサーバーへの接続方法
 
