@@ -1,6 +1,6 @@
 ---
-title: SSHキーの生成
-description: ターミナルを使用してSSHキーを生成する方法と、公開鍵をCampaign コントロールパネルに格納する方法を説明します。
+title: SSH キーの生成
+description: ターミナルを使って SSH キーを生成する方法と、公開バージョンのキーをコントロールパネルに保存する方法について説明します。
 feature: コントロールパネル
 kt: 8512
 thumbnail: 27259.jpg
@@ -10,15 +10,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
-# SSHキーの生成
+# SSH キーの生成
 
-SSHキーを生成し、公開バージョンをCampaign コントロールパネルに追加します。
+SSH キーを生成し、公開バージョンをコントロールパネルに追加します。
 
 ## Campaign コントロールパネルの SFTP 管理へのアクセス
 
@@ -30,10 +30,10 @@ Campaign コントロールパネルで SFTP 管理にアクセスするには�
 
 * URL（[http://experience.adobe.com/#/controlpanel/sftp](https://experience.adobe.com/)）で直接移動
 
-## SSHキーの生成方法
+## SSH キーの生成方法
 
-ターミナルを使用してSSHキーを生成する方法と、公開鍵をCampaign コントロールパネルに格納する方法を説明します。
+ターミナルを使って SSH キーを生成する方法と、公開バージョンのキーをコントロールパネルに保存する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 
-*SSHキーの作成方法（2分16秒）*
+*SSH キーの作成方法（2 分 16 秒）*
