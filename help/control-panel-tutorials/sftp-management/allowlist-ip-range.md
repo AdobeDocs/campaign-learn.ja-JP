@@ -1,6 +1,6 @@
 ---
-title: 許可リストのIP範囲
-description: IPアドレス範囲を追加する方法を説明し許可リストます。
+title: 許可リストの IP の範囲
+description: 許可リストに IP アドレス範囲を追加する方法を説明します。
 feature: コントロールパネル
 kt: 8511
 thumbnail: 41775.jpg
@@ -11,17 +11,17 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
-# 許可リストIP範囲
+# 許可リストの IP 範囲
 
-クライアントアプリケーションまたはAPIを使用してサーバーに接続するには、SSH公開鍵を設定し、SFTPサーバーに接続するIPアドレスをサーバーに追加する必要があり許可リストます。
+クライアントアプリケーションや API を使用してサーバーに接続するには、SSH 公開キーを設定して、SFTP サーバーに接続する IP アドレスを許可リストに追加する必要があります。
 
-IPアドレス範囲を追加する方法を説明し許可リストます。
+許可リストに IP アドレス範囲を追加する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
 
