@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 78%
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計できるプラットフォームであり、キャンペーンの視覚的なオーケストレーション、インタラクションのリアルタイム管理、クロスチャネルの実行などを行える環境です。このユーザーガイドには、Adobe Campaign V8 の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
 >[!INFO]
-> 質問は？ 経験を共有したり、同僚と意見を交換したりしますか？ または、Adobeチームの学習コンテンツに関するフィードバックをお持ちですか。 [Adobe Campaignの学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)で会話に参加します。
+> 質問はありますか？ 同僚と経験を共有したり、意見交換したりしますか？または、アドビチームの学習コンテンツに関するフィードバックはありますか？[Adobe Campaign の学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)で会話にご参加ください。
 
 >[!NOTE]
 > Campaign v8 は、現在 Managed Cloud Service としてのみ利用でき、オンプレミス環境またはハイブリッド環境にデプロイすることはできません。既存の Campaign Classic v7 環境からは移行できません。
@@ -26,9 +26,9 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
-* **[コントロールパネル](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+* **[コントロールパネル](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=ja)**
 
-   *主要なアセットを監視し、インスタンス別のSFTPストレージの管理、IPアドレスの許可リストへの登録、GPGキーの管理などの管理タスクを実行する方法について説明します。*
+   *主要なアセットを監視し、インスタンス別の SFTP ストレージの管理、IP アドレスの一覧表示の許可、GPG キーの管理などの管理タスクを実行する方法について説明します。*
 
 ## アドビのお勧め
 
