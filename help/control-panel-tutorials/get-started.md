@@ -1,5 +1,5 @@
 ---
-title: Campaign コントロールパネル
+title: コントロールパネルの概要
 description: コントロールパネルにアクセスする方法と、コントロールパネルを操作できるようになるための前提条件を説明します。
 feature: コントロールパネル
 kt: 8509
@@ -10,23 +10,23 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: 80d3fab30d8b440d82b3641cd86eca312e44de1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Campaign コントロールパネル]の使用を開始する {#control-panel}
+# [!UICONTROL コントロールパネル]の概要 {#control-panel}
 
 [!UICONTROL Campaign コントロールパネル]を使用すると、Adobe Campaign 管理者は、主要なアセットを監視したり、インスタンス単位の [!DNL SFTP] ストレージの管理や、[!DNL GPG] キーまたは[!UICONTROL サブドメイン]と[!UICONTROL 証明書]の管理などの管理タスクを実行したりできます。
 
 この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。
 
-## [!UICONTROL Campaign コントロールパネル]へのアクセス
+## [!UICONTROL コントロールパネル]へのアクセス
 
 Campaign コントロールパネルは、すべての管理者ユーザーがアクセスできます。ユーザーに管理者アクセス権を付与する手順については、 [製品ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=ja#discover-control-panel)を参照してください。
 
-Campaign コントロールパネルにアクセスするには、Experience Cloudホームに移動します。[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+コントロールパネルにアクセスするには、Experience Cloud ホーム（[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com)）に移動します。
 
 * **[!UICONTROL Experience Cloud ホーム]**／**[!UICONTROL クイックアクセス]**
 
@@ -43,7 +43,7 @@ Campaign コントロールパネルにアクセスするには、Experience Clo
 
 ### [!DNL IMS Org ID] の確認
 
-次のビデオでは、インスタンスの[!DNL IMS org ID]を検索できる場所を説明します。
+次のビデオでは、インスタンスの [!DNL IMS org ID] を検索できる場所について説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
