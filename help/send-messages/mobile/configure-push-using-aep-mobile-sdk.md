@@ -12,9 +12,9 @@ hide: true
 hidefromtoc: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 88%
 
 ## その他のリソース
 
-* [LaunchでのCampaign Classicv7拡張機能の設定](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
+* [Launch での Campaign Classic v7 拡張機能の設定](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
