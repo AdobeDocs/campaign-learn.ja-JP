@@ -3,7 +3,7 @@ user-guide-title: Campaign SOAP APIの使用
 user-guide-description: Adobe Campaign Soap APIを使用して高度な配信ワークフローを作成する方法を説明します。
 breadcrumb-title: Campaign SOAP APIの使用
 breadcrumb-url: /docs/campaign-learn/using-soap-apis/introduction.html
-source-git-commit: d68fc50e574567059e38b644ba7a3275ce3a21fc
+source-git-commit: ee6980355860a0fee79bbdfd3f11533e287b7f21
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 2%
