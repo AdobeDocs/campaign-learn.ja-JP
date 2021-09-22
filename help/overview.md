@@ -2,14 +2,14 @@
 title: Adobe Campaign V8 チュートリアル - 概要
 description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計できるプラットフォームであり、キャンペーンの視覚的なオーケストレーション、インタラクションのリアルタイム管理、クロスチャネルの実行などを行える環境です。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 sub-product: Campaign V8
-feature: 概要
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: ht
-source-wordcount: '364'
-ht-degree: 100%
+source-git-commit: 3469a37e5142174d9dd69272397a7854bc1674fa
+workflow-type: tm+mt
+source-wordcount: '395'
+ht-degree: 91%
 
 ---
 
@@ -26,6 +26,9 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
+* **[チュートリアル：ワークフローでのSOAP APIの使用](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+
+   *Adobe Campaign Soap APIを使用し、API経由で受信したデータに基づいて高度な配信ワークフローを作成する方法を説明します。*
 * **[コントロールパネル](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=ja)**
 
    *主要なアセットを監視し、インスタンス別の SFTP ストレージの管理、IP アドレスの一覧表示の許可、GPG キーの管理などの管理タスクを実行する方法について説明します。*
