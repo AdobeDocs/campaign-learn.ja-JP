@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: a30d1c80a8ee3d41c7bdbdf355a4ad0227251414
+source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 96%
@@ -76,7 +76,7 @@ ht-degree: 96%
 + データ管理 {#data-management}
    + [プロファイルのインポート](/help/data-management/import-profiles.md)
    + [データレプリケーション](/help/data-management/data-replication.md)
-   + [チュートリアル：SOAP APIの使用](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=en)
+   + [チュートリアル：SOAP APIの使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
 + 他のソリューションとの接続 {#connect}
    + [Snowflake でのビッグデータ管理](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Dynamics 365 との統合](/help/connect/dynamics365-integration.md)
