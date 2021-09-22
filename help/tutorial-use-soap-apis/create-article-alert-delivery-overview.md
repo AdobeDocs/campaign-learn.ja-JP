@@ -7,9 +7,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 20dc3aa4b30d8b6ee1d87b10607fb24afc09292a
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,5 @@ Eメール配信を通じて購読した新しい記事を受信者に通知す�
 
 *様々なターゲティングとフィルタリングディメンションを使用したクエリデータと、積集合を使用した出力の結合方法。*
 
-**手順2:** [列に参加してEメール配信を送信する](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
-
-*前の手順で作成したニュースレター購読ワークフローに、2つのセグメントを結合し、APIを介して受け取った記事情報を含むパーソナライズされたEメール配信を追加する方法を説明します。*
+**手順2:** [購読した受信者に配信を送信する2つのセグメントにデータを結合する方法、記事のアラートEメールを作成する方法、および外部APIから受信したデータに基づいてデータをパーソナライズする方法について説明しま](/help/tutorial-use-soap-apis/send-delivery-to%20subscribed-recipients.md)
+*す。*

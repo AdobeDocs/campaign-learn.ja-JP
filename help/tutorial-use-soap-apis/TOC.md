@@ -3,7 +3,7 @@ user-guide-title: Campaign SOAP APIの使用
 user-guide-description: Adobe Campaign Soap APIを使用して高度な配信ワークフローを作成する方法を説明します。
 breadcrumb-title: Campaign SOAP APIの使用
 breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 + 手順4 — 記事のアラート配信を作成する{#article-alert-email}
    + [記事アラート配信の作成](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)
    + [パート1 — クエリ記事と受信者の購読値](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
-   + [パート2 — 列に参加してEメール配信を送信](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
+   + [パート2 — 購読している受信者への配信](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
