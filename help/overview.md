@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: ca00618239e9efa68a15b7e19891e9900920fb20
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 91%
+source-wordcount: '424'
+ht-degree: 85%
 
 ---
 
@@ -26,9 +26,14 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
-* **[チュートリアル：ワークフローでのSOAP APIの使用](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+* **[Experience Platformとの統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)**
 
-   *Adobe Campaign Soap APIを使用し、API経由で受信したデータに基づいて高度な配信ワークフローを作成する方法を説明します。*
+   *Campaign とExperience Cloudのデータをインポートおよびエクスポートし、2 つのソリューション間で通信できるようにする方法を説明します。*
+
+* **[チュートリアル：ワークフローでの SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+
+   *Adobe Campaign Soap API を使用し、API 経由で受信したデータに基づいて高度な配信ワークフローを作成する方法を説明します。*
+
 * **[コントロールパネル](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=ja)**
 
    *主要なアセットを監視し、インスタンス別の SFTP ストレージの管理、IP アドレスの一覧表示の許可、GPG キーの管理などの管理タスクを実行する方法について説明します。*
