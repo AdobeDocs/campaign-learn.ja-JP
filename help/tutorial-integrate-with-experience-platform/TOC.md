@@ -3,7 +3,7 @@ user-guide-title: Experience Platformとの統合
 user-guide-description: Campaign とExperience Cloudのデータをインポートおよびエクスポートし、2 つのソリューション間で通信できるようにする方法を説明します。
 breadcrumb-title: Experience Platformとの統合
 breadcrumb-url: /campaign-learn/integrate-with-experience-platform/introduction.html
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Experience Platformとの統合 {#experience-platform-data-integration}
 
-+ [はじめに](/help/tutorial-integrate-with-experience-platform/introduction.md)
++ [概要](/help/tutorial-integrate-with-experience-platform/overview.md)
 + [Experience Platformデータを Campaign にインポート]{#import-experience-platform-data-into-campaign}
    + [Campaign を宛先としてExperience Platformに接続](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
    + [受信者データをExperience Platformからインポートし E メールを送信](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
