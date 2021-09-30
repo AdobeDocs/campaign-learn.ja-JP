@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Platformでのソースを使用した Campaign データの接続
+title: Adobe Experience Platformで S3 をソースとして使用した Campaign データの接続
 description: ソースコネクタを使用してデータを取り込み、書き出したキャンペーンログでExperience Platformデータを更新する方法を説明します。
 feature: Data Import/Export, Data Management
 kt: 8159
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Developer
 level: Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '85'
 ht-degree: 2%
 
 ---
 
 
-# Adobe Experience Platformでのソースを使用した Campaign データの接続
+# Adobe Experience Platformで S3 をソースとして使用した Campaign データの接続
 
 ソースコネクタを使用してデータを取り込み、書き出したキャンペーンログでExperience Platformデータを更新する方法を説明します。
 
