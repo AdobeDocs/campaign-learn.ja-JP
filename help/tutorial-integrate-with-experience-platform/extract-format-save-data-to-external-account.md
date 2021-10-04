@@ -1,6 +1,6 @@
 ---
 title: エクスポートワークフローの作成（パート 2） — データの抽出、書式設定、外部アカウントへの保存
-description: 「エクスポートワークフローの作成」チュートリアルのこの 2 番目のパートでは、エクスポートするデータをフォーマットする方法と、データを外部アカウントに保存する方法を学びます。 
+description: 「エクスポートワークフローの作成」チュートリアルのこの 2 番目のパートでは、エクスポートするデータをフォーマットする方法と、データを外部アカウントに保存する方法を学びます。
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -9,13 +9,13 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
-source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
+exl-id: ac29b75c-a838-4183-8ec5-034281290725
+source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
 
 ---
-
 
 # エクスポートワークフローの作成（パート 2）:データの抽出、書式設定、外部アカウントへの保存
 

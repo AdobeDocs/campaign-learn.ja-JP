@@ -6,15 +6,25 @@ kt: 9094
 thumbnail: 336643.jpg
 role: Admin, Developer
 level: Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
+source-git-commit: 649116ee1e45c8012d5850bf3e9e3c0006ae1aa2
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 54%
 
 ---
 
 # Experience Platformとの統合 — 概要
 
-Campaign とExperience Cloudのデータをインポートおよびエクスポートし、2 つのソリューション間で通信できるようにする方法を説明します。
+Campaign とExperience Cloud間でのデータの共有方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12)
+
+## その他のリソース
+
+### ドキュメント
+
+* [ソースと宛先の概要](https://experienceleague.adobe.com/docs/campaign-classic/using/aep-sources-destinations/get-started-sources-destinations.html?lang=ja#integrating-with-adobe-experience-cloud)
+* [アドビのリアルタイム顧客データプラットフォーム](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=ja)
+* [宛先に関するドキュメント](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=ja)
+* [ソースに関するドキュメント](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=ja)
