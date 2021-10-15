@@ -1,6 +1,6 @@
 ---
-title: 購読した受信者への配信
-description: データ2つのセグメントを結合し、記事のアラート電子メールを作成し、外部APIから受信したデータに基づいてアラートをパーソナライズする方法を説明します。
+title: 登録している受信者への配信
+description: データを 2 つのセグメントに結合し、記事のアラートメールを作成した上で、外部 API から受け取ったデータに基づいてアラートメールをパーソナライズする方法を説明します。
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8167
 thumbnail: 336940.jpg
@@ -9,16 +9,16 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
-workflow-type: tm+mt
+exl-id: 3280371c-b088-4da9-bc2c-f7a401719db8
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 登録している受信者への配信
 
-# 購読した受信者への配信
-
-データ2つのセグメントを結合し、記事のアラート電子メールを作成し、外部APIから受信したデータに基づいてアラートをパーソナライズする方法を説明します。 前の手順で作成したワークフローを引き続き構築します。[クエリ記事と受信者の購読値](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)ビデオ。
+データを 2 つのセグメントに結合し、記事のアラートメールを作成した上で、外部 API から受け取ったデータに基づいてアラートメールをパーソナライズする方法を説明します。 前の手順：[記事と受信者のサブスクリプション値をクエリする](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)ビデオで作成したワークフローの構築を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12)
