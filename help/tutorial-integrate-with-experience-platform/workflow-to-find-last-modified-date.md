@@ -1,6 +1,6 @@
 ---
-title: エクスポートワークフローの作成（パート 1） — 受信者のリストの最終変更日を検索します
-description: 「エクスポートExperience Platformの作成」チュートリアルの最初の部分では、ワークフローセグメントから作成された受信者のリストの最終変更日を検索するワークフローを作成する方法を説明します。
+title: 書き出しワークフローの作成（パート 1） - 受信者リストの最終変更日を検索する
+description: 「書き出しワークフローの作成」チュートリアルの最初の部分では、Experience Platform セグメントから作成された受信者リストの最終変更日を検索するワークフローの作成方法を説明します。
 feature: Data Import/Export, Workflows
 kt: 8162
 thumbnail: 336387.jpg
@@ -11,21 +11,21 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# エクスポートワークフローの作成（パート 1） — 受信者のリストの最終変更日を検索します
+# 書き出しワークフローの作成（パート 1） - 受信者リストの最終変更日を検索する
 
-「エクスポートExperience Platformの作成」チュートリアルの最初の部分では、ワークフローセグメントから作成された受信者のリストの最終変更日を検索するワークフローを作成する方法を説明します。
+「書き出しワークフローの作成」チュートリアルの最初の部分では、Experience Platform セグメントから作成された受信者リストの最終変更日を検索するワークフローの作成方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
 
-## アセット
+## Assets
 
-日付範囲を確立する JavaScript:
+JavaScript で日付範囲を確立：
 
 ```java
  var DEFAULT_LOOKBACK_DAYS = 90;
@@ -64,4 +64,4 @@ ht-degree: 0%
 
 ## 次のビデオ
 
-[エクスポートワークフローの作成（パート 2） — データの抽出、書式設定、外部アカウントへの保存](extract-format-save-data-to-external-account.md)
+[書き出しワークフローの作成（パート 2） - データの抽出、書式設定、外部アカウントへの保存](extract-format-save-data-to-external-account.md)
