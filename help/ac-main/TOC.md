@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '338'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -75,11 +75,11 @@ ht-degree: 93%
 + データ管理 {#data-management}
    + [プロファイルのインポート](/help/data-management/import-profiles.md)
    + [データレプリケーション](/help/data-management/data-replication.md)
-   + [チュートリアル：SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
+   + [チュートリアル：SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja)
 + 他のソリューションとの接続 {#connect}
    + [Snowflake でのビッグデータ管理](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Dynamics 365 との統合](/help/connect/dynamics365-integration.md)
-   + [Experience Platformとの統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=ja)
 + レポート{#reporting}
    + [組み込みレポートへのアクセス](/help/reporting/access-built-in-reports.md)
    + [記述的な分析レポートの生成](/help/reporting/generate-a-descriptive-analysis-report.md)
