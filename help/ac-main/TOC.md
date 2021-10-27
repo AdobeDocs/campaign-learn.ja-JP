@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: ht
-source-wordcount: '338'
-ht-degree: 100%
+source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+workflow-type: tm+mt
+source-wordcount: '343'
+ht-degree: 98%
 
 ---
 
@@ -73,6 +73,7 @@ ht-degree: 100%
    + [リストを更新アクティビティの使用](/help/process-management/use-the-update-list-activity.md)
    + [エンリッチメントアクティビティの設定](/help/process-management/enrichment-activity.md)
 + データ管理 {#data-management}
+   + [スキーマの作成と拡張](/help/data-management/create-and-extend-a-schema.md)
    + [プロファイルのインポート](/help/data-management/import-profiles.md)
    + [データレプリケーション](/help/data-management/data-replication.md)
    + [チュートリアル：SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja)

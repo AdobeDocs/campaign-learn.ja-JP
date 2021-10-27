@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: ca00618239e9efa68a15b7e19891e9900920fb20
-workflow-type: ht
-source-wordcount: '424'
-ht-degree: 100%
+source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+workflow-type: tm+mt
+source-wordcount: '407'
+ht-degree: 95%
 
 ---
 
@@ -26,6 +26,10 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
+* **[スキーマの作成と拡張](/help/data-management/create-and-extend-a-schema.md)**
+
+   *新しいスキーマを作成し、既存のスキーマを拡張する方法を説明します。*
+
 * **[Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=ja)**
 
    *Campaign と Experience Cloud のデータを読み込みおよび書き出し、2 つのソリューション間でやり取りできるようにする方法を説明します。*
@@ -34,9 +38,6 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
    *Adobe Campaign Soap API を使用し、API 経由で受信したデータに基づいて高度な配信ワークフローを作成する方法を説明します。*
 
-* **[コントロールパネル](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=ja)**
-
-   *主要なアセットを監視し、インスタンス別の SFTP ストレージの管理、IP アドレスの一覧表示の許可、GPG キーの管理などの管理タスクを実行する方法について説明します。*
 
 ## アドビのお勧め
 
