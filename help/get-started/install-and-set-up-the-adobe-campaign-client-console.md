@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign クライアントコンソールのインストールと設定
 description: Adobe Campaign クライアントコンソールをダウンロードしてインストールする方法、複数の環境への接続を作成し管理する方法、Adobe Campaign クライアントコンソールへのアクセスを確認する方法について説明します。
-feature: クライアントコンソール
+feature: Client Console
 kt: 7827
 thumbnail: 335375.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: 957aba61-f6b2-4bc9-a804-40a4f40b6365
 source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
-workflow-type: ht
-source-wordcount: '80'
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---

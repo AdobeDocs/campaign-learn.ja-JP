@@ -1,13 +1,14 @@
 ---
 title: GPG キー管理 - 概要
-description: '指定した  [!DNL Campaign]  インスタンスで公開キーと秘密キーのペアを生成してインストールする方法を説明します。 '
-feature: コントロールパネル
+description: 指定した  [!DNL Campaign]  インスタンスで公開キーと秘密キーのペアを生成してインストールする方法を説明します。
+feature: Control Panel
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
-workflow-type: ht
-source-wordcount: '103'
+exl-id: 42f72a8b-a33e-467d-bc7d-6211e857800c
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---

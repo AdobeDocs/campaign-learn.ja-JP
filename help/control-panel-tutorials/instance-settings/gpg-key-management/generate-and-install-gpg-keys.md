@@ -1,7 +1,7 @@
 ---
 title: GPG キーの生成とインストール
 description: データを暗号化するために、公開キーと秘密キーのペアを生成し、Campaign インスタンスにインストールする方法を説明します。
-feature: コントロールパネル
+feature: Control Panel
 kt: 8517
 thumbnail: 36386.jpg
 doc-type: feature video
@@ -9,9 +9,10 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
-workflow-type: ht
-source-wordcount: '64'
+exl-id: 22338566-1ee9-4459-976e-0d67a779d2ef
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---

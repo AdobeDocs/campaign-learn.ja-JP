@@ -1,7 +1,7 @@
 ---
 title: 条件付きコンテンツを使用した多言語ニュースレターの作成
 description: 多言語ニュースレターを例に、条件付きコンテンツを配信に追加する方法を説明します。
-feature: 動的コンテンツ
+feature: Dynamic Content
 kt: 7792
 thumbnail: 335682.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
 source-git-commit: d139ae2c913c4b46d1683a2f1a30b9cb30988d09
-workflow-type: ht
-source-wordcount: '85'
+workflow-type: tm+mt
+source-wordcount: '83'
 ht-degree: 100%
 
 ---

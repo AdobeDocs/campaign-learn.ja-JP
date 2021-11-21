@@ -1,7 +1,7 @@
 ---
 title: Experience Platform モバイル SDK を使用したプッシュチャネルの設定
 description: Experience Cloud Mobile SDK を使用してプッシュチャネルを設定する方法を説明します。
-feature: プッシュ
+feature: Push
 kt: 7960
 doc-type: feature video
 activity: setup
@@ -12,8 +12,8 @@ hide: true
 hidefromtoc: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: ht
-source-wordcount: '62'
+workflow-type: tm+mt
+source-wordcount: '61'
 ht-degree: 100%
 
 ---

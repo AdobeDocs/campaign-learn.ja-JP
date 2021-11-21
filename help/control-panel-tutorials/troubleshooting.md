@@ -1,16 +1,17 @@
 ---
 title: コントロールパネルのトラブルシューティング
 description: コントロールパネルのトラブルシューティング方法を学ぶ
-feature: コントロールパネル
+feature: Control Panel
 kt: 8520
 doc-type: article
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
-workflow-type: ht
-source-wordcount: '340'
+exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '338'
 ht-degree: 100%
 
 ---
@@ -50,7 +51,7 @@ ht-degree: 100%
 ### 参考になるドキュメント
 
 * [コントロールパネルの理解](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)
-* [[!UICONTROL Campaign コントロールパネル]に対する権限の管理](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)
+* [[!UICONTROL Campaign コントロールパネル]に対する権限の管理](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## SFTP サーバーへの接続の確立（クライアントまたは API）
 
@@ -62,4 +63,4 @@ SFTP サーバーに接続するには、以下が必要です。
 
 ### 参考になるドキュメント {#helpful-docs}
 
-* [SFTP サーバーへのログイン](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)
+* [SFTP サーバーへのログイン](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)

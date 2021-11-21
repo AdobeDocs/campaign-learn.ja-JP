@@ -1,20 +1,20 @@
 ---
 title: メール配信アクティビティと配信アクティビティの比較
 description: このビデオでは、配信テンプレートの設定方法と使用方法について説明します。
-feature: 配信テンプレート
+feature: Delivery Templates
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: ht
-source-wordcount: '133'
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
 
 
-# メール配信アクティビティと配信アクティビティの比較
+# E メール配信アクティビティと配信アクティビティの比較
 
 [!UICONTROL 「配信」タイプのアクティビティ]で配信アクションを作成できます。入力要素を使用して構築できます。
 
