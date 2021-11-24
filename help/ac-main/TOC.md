@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
+source-git-commit: b0fcde90e008222c069d952099c7154856e91fef
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 91%
+source-wordcount: '364'
+ht-degree: 93%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 91%
    + [ランディングページの設定](/help/content-creation/configure-landingpages.md)
 + メッセージの送信{#sending-messages}
    + メール{#email}
-      + [メール配信の配達確認の送信と検証 ](/help/send-messages/email/send-and-validate-proofs.md)
+      + [メール配信の配達確認の送信と検証](/help/send-messages/email/send-and-validate-proofs.md)
       + [コントロールグループの使用](/help/send-messages/email/use-control-groups.md)
       + [メール配信の問題のトラブルシューティング](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [配信品質を考慮したメールの設計](/help/send-messages/email/design-emails-for-deliverability.md)
@@ -70,8 +70,6 @@ ht-degree: 91%
       + [クエリ結果の組み合わせによるターゲットの絞り込み](/help/process-management/refine-targets-by-combining-query-results.md)
       + [クエリ結果の除外によるターゲットの絞り込み](/help/process-management/refine-targets-by-excluding-query-results.md)
    + 承認および検証ワークフロー {#create-approvals-and-validation-workflows}
-   + [リスト更新アクティビティの使用方法](/help/process-management/use-the-update-list-activity.md)
-   + [エンリッチメントアクティビティの設定](/help/process-management/enrichment-activity.md)
       + [はじめに](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [承認の管理](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [キャンペーンの承認の設定](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
