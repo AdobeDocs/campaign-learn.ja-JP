@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: 9a485e259e4105a6ccdd06e3374ab3d1a3810280
+source-git-commit: f25e3e7553d23aacf96c0f05e1ad78ee783192ff
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '359'
 ht-degree: 93%
 
 ---
@@ -68,7 +68,6 @@ ht-degree: 93%
    + [ターゲティングワークフローの作成](/help/process-management/create-a-targeting-workflow.md)
    + [クエリ結果の組み合わせによるターゲットの絞り込み](/help/process-management/refine-targets-by-combining-query-results.md)
    + [クエリ結果の除外によるターゲットの絞り込み](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + [検証ワークフローの作成](/help/process-management/create-validation-workflows.md)
    + [承認の管理](/help/process-management/manage-approvals.md)
    + [リストを更新アクティビティの使用](/help/process-management/use-the-update-list-activity.md)
    + [エンリッチメントアクティビティの設定](/help/process-management/enrichment-activity.md)
