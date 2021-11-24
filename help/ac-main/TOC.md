@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
+source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 91%
@@ -65,7 +65,7 @@ ht-degree: 91%
 + プロセスの管理と自動化{#process-management}
    + [ワークフローの作成](/help/process-management/create-a-workflow.md)
    + [繰り返し配信と連続配信の作成](/help/process-management/recurring-deliveries.md)
-   + ターゲティングワークフロー {#targeting workflows}
+   + ターゲティングワークフロー {#targeting-workflows}
       + [ターゲティングワークフローの作成](/help/process-management/create-a-targeting-workflow.md)
       + [クエリ結果の組み合わせによるターゲットの絞り込み](/help/process-management/refine-targets-by-combining-query-results.md)
       + [クエリ結果の除外によるターゲットの絞り込み](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -74,9 +74,9 @@ ht-degree: 91%
    + [エンリッチメントアクティビティの設定](/help/process-management/enrichment-activity.md)
       + [はじめに](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [承認の管理](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [キャンペーンの承認の設定](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
-      + [配信の承認の設定](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
-      + [ワークフローでの承認プロセスの作成](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [キャンペーンの承認の設定](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [配信の承認の設定](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [ワークフローでの承認アクティビティの作成](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + データ管理 {#data-management}
    + [承認の管理](/help/process-management/manage-approvals.md)
    + [リストを更新アクティビティの使用](/help/process-management/use-the-update-list-activity.md)
