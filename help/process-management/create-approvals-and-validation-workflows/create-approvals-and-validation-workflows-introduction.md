@@ -8,7 +8,7 @@ team: TM
 role: User
 level: Experienced
 exl-id: fa4c2180-15bb-424b-a54e-c7d744385fb6
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
+source-git-commit: d4959c9a0559aca0ccaa02816690ed586aa5e201
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 66%
@@ -28,8 +28,8 @@ Adobe Campaign には、マーケターが配信コンテンツ、キャンペ�
 
 ## 承認の設定 {#configuring-approvals}
 
-1. [キャンペーンの承認の設定](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md):キャンペーンワークフローのすべての配信で同じレビュー担当者のセットを持っている場合は、キャンペーンレベルで承認とレビュー担当者を設定し、キャンペーン承認機能を適用します。 ワークフローを実行すると、承認タスクとレビュー担当者がワークフローの各配信アクティビティにプッシュされます。
-2. [配信の承認の設定](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md):また、配信レベルで承認を設定することもできます。 承認手順とレビュー担当者が配信とキャンペーンとで異なる場合は、配信の設定がキャンペーンの設定を上書きします。
-3. [ワークフローでの承認プロセスの作成](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md):「承認」アクティビティを使用すると、ワークフロー内に承認プロセスを作成できます。 これにより、配信を開始する前にターゲティングの選択ロジックを承認できます。必要に応じて、ワークフロー内の複数のレベルで承認をおこなうこともできます。
+1. [キャンペーンの承認の設定](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md):キャンペーンワークフローのすべての配信で同じレビュー担当者のセットを持っている場合は、キャンペーンレベルで承認とレビュー担当者を設定し、キャンペーン承認機能を適用します。 ワークフローを実行すると、承認タスクとレビュー担当者がワークフローの各配信アクティビティにプッシュされます。
+2. [配信の承認の設定](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md):また、配信レベルで承認を設定することもできます。 承認手順とレビュー担当者が配信とキャンペーンとで異なる場合は、配信の設定がキャンペーンの設定を上書きします。
+3. [ワークフローでの承認プロセスの作成](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md):「承認」アクティビティを使用すると、ワークフロー内に承認プロセスを作成できます。 これにより、配信を開始する前にターゲティングの選択ロジックを承認できます。必要に応じて、ワークフロー内の複数のレベルで承認をおこなうこともできます。
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=ja)を参照してください。
