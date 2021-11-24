@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+source-git-commit: 9a485e259e4105a6ccdd06e3374ab3d1a3810280
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 98%
+source-wordcount: '362'
+ht-degree: 93%
 
 ---
 
@@ -72,6 +72,10 @@ ht-degree: 98%
    + [承認の管理](/help/process-management/manage-approvals.md)
    + [リストを更新アクティビティの使用](/help/process-management/use-the-update-list-activity.md)
    + [エンリッチメントアクティビティの設定](/help/process-management/enrichment-activity.md)
+   + 承認検証ワークフローの作成 {#create-validation-workflows}
+      + [キャンペーンの承認の設定](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
+      + [配信の承認の設定](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
+      + [ワークフローでの承認プロセスの作成](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
 + データ管理 {#data-management}
    + [スキーマの作成と拡張](/help/data-management/create-and-extend-a-schema.md)
    + [プロファイルのインポート](/help/data-management/import-profiles.md)
