@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 95%
+source-wordcount: '388'
+ht-degree: 91%
 
 ---
 
@@ -26,6 +26,10 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
+* **[FFDA を使用した API ステージングメカニズム](/help/data-management/api-staging-mechanism.md)**
+
+   *フル FDA を使用した API ステージングメカニズムの仕組みについて説明します。*
+
 * **[スキーマの作成と拡張](/help/data-management/create-and-extend-a-schema.md)**
 
    *新しいスキーマを作成し、既存のスキーマを拡張する方法を説明します。*
@@ -33,10 +37,6 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 * **[Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=ja)**
 
    *Campaign と Experience Cloud のデータを読み込みおよび書き出し、2 つのソリューション間でやり取りできるようにする方法を説明します。*
-
-* **[チュートリアル：ワークフローでの SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja)**
-
-   *Adobe Campaign Soap API を使用し、API 経由で受信したデータに基づいて高度な配信ワークフローを作成する方法を説明します。*
 
 
 ## アドビのお勧め
