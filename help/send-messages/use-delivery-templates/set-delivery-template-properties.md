@@ -1,6 +1,6 @@
 ---
 title: 配信テンプレートプロパティの設定
-description: 配信テンプレートのプロパティを設定する方法を説明します。
+description: 配信テンプレートのプロパティを設定する方法について説明します。
 feature: Delivery Templates
 kt: 7964
 thumbnail: 338969.jpg

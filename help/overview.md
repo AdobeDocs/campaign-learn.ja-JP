@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 * **[スキーマの作成と拡張](/help/data-management/create-and-extend-a-schema.md)**
 
-   *新しいスキーマを作成し、既存のスキーマを拡張する方法を説明します。*
+   *新しいスキーマを作成したり、既存のスキーマを拡張したりする方法を説明します。*
 
 * **[Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=ja)**
 
