@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 69e794119c4f3e8d455c7300b23ca75350e28154
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 96%
+source-wordcount: '396'
+ht-degree: 93%
 
 ---
 
@@ -102,6 +102,4 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 </table>
 
-## その他のリソース
-
-* [ドキュメント](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja)
+詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja) この機能の詳細については、を参照してください。

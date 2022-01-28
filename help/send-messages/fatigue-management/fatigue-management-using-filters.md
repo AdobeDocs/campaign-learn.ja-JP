@@ -10,9 +10,9 @@ team: TM
 role: User, Developer, Admin
 level: Experienced
 exl-id: 925727d6-0e4e-4433-8830-001d91e6cf9c
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '47'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ ht-degree: 100%
 疲労管理では、受信者への過剰勧誘を避けるために、メッセージの頻度と数量を制御します。フィルターを使用して Adobe Campaign に疲労管理を実装する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12)
-
-## その他のリソース
-
-* [キャンペーンタイポロジについて](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ja)

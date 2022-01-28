@@ -11,9 +11,9 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
-source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '47'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,3 @@ ht-degree: 100%
 このビデオでは、Adobe Experience Platform モバイル SDK のインストールと設定の方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12)
-
-
-## その他のリソース
-
-* [Launch での Campaign Classic v7 拡張機能の設定](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)

@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,3 @@ ht-degree: 100%
 パーソナライゼーションフィールドをメール配信の件名とコンテンツに追加する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
-
-## その他のリソース
-
-* [動的コンテンツブロックを使用したメールのパーソナライズ](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [条件付きコンテンツを使用した多言語ニュースレターの作成](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
