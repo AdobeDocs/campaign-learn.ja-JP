@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
+source-git-commit: 7d998bc996a0123b051e7b9a5397cfd49e734eb2
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 100%
+source-wordcount: '375'
+ht-degree: 97%
 
 ---
 
@@ -76,6 +76,8 @@ ht-degree: 100%
       + [配信の承認の設定](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [ワークフローでの承認アクティビティの作成](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + データ管理 {#data-management}
+   + [ワークフローを使用したデータ管理の基本](/help/data-management/data-management-fundamentals.md)
+   + [データソースの変更](/help/data-management/change-data-source.md)
    + [リストを更新アクティビティの使用](/help/process-management/use-the-update-list-activity.md)
    + [エンリッチメントアクティビティの設定](/help/process-management/enrichment-activity.md)
    + [スキーマの作成と拡張](/help/data-management/create-and-extend-a-schema.md)
@@ -88,7 +90,7 @@ ht-degree: 100%
    + [Dynamics 365 との統合](/help/connect/dynamics365-integration.md)
    + [Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=ja)
 + レポート{#reporting}
-   + [組み込みレポートへのアクセス](/help/reporting/access-built-in-reports.md)
+   + [ビルトインレポートへのアクセス](/help/reporting/access-built-in-reports.md)
    + [記述的な分析レポートの生成](/help/reporting/generate-a-descriptive-analysis-report.md)
 + 監視{#monitoring}
    + [ワークフローヒートマップ](/help/monitoring/workflow-heatmap.md)

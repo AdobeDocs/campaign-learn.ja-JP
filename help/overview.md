@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 93%
+source-wordcount: '411'
+ht-degree: 78%
 
 ---
 
@@ -27,18 +27,17 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
+* **[データソースの変更](/help/data-management/change-data-source.md)**
+
+   *データソースを変更アクティビティを使用してワークフローの作業用テーブルのデータソースを変更し、FDA、FFDA、ローカルデータベースなど、様々なデータソースにわたるデータを柔軟に管理する方法を説明します。*
+
+* **[ワークフローを使用したデータ管理の基本](/help/data-management/data-management-fundamentals.md)**
+
+   *ターゲティングディメンションと作業用テーブルの概要、およびAdobe Campaignが異なるデータソース間でデータを管理する方法について説明します。*
+
 * **[FFDA を使用した API ステージングメカニズム](/help/data-management/api-staging-mechanism.md)**
 
    *フル FDA を使用した API ステージングメカニズムの仕組みについて説明します。*
-
-* **[スキーマの作成と拡張](/help/data-management/create-and-extend-a-schema.md)**
-
-   *新しいスキーマを作成したり、既存のスキーマを拡張したりする方法を説明します。*
-
-* **[Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=ja)**
-
-   *Campaign と Experience Cloud のデータを読み込みおよび書き出し、2 つのソリューション間でやり取りできるようにする方法を説明します。*
-
 
 ## アドビのお勧め
 
