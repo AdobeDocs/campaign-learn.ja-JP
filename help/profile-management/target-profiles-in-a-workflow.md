@@ -1,6 +1,7 @@
 ---
 title: ワークフローでのプロファイルのターゲット設定
 description: キャンペーンワークフローの使用法を理解し、ワークフローを作成する方法と、フィルタリング条件を使用してワークフロー内のプロファイルをターゲティングする方法を学びます。
+feauture: Profiles
 kt: 7842
 thumbnail: 334300.jpg
 doc-type: feature video
@@ -9,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 19296ac3-a81a-4201-9f6e-80be2395f0bc
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: f8f204024640975b0804af899b6e92a322e30d7f
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
