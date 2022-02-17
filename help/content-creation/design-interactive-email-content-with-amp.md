@@ -1,6 +1,6 @@
 ---
 title: AMP を使用したインタラクティブなメールコンテンツのデザイン
-description: AMP 形式で E メールコンテンツを設定する方法を説明します。
+description: AMP 形式でメールコンテンツを設定する方法を説明します。
 feature: Email, Email Design
 kt: 7946
 thumbnail: 29940.jpg
@@ -13,9 +13,9 @@ hide: true
 hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 93%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ja#about-amp-for-email) を参照してください。
+詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ja#about-amp-for-email)を参照してください。
