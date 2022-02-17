@@ -1,5 +1,5 @@
 ---
-title: Experience Platform モバイル SDK を使用したプッシュチャネルの設定
+title: Experience Platform Mobile SDK を使用したプッシュチャネルの設定
 description: Experience Cloud Mobile SDK を使用してプッシュチャネルを設定する方法を説明します。
 feature: Push
 kt: 7960
@@ -12,14 +12,14 @@ hide: true
 hidefromtoc: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 
 ---
 
 
-# Experience Platform モバイル SDK を使用したプッシュチャネルの設定
+# Experience Platform Mobile SDK を使用したプッシュチャネルの設定
 
 このビデオでは、Adobe Experience Platform モバイル SDK のインストールと設定の方法を説明します。
 
