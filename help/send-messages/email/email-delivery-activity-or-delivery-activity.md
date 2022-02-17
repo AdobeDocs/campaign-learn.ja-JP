@@ -7,14 +7,14 @@ doc-type: feature video
 activity: use
 team: TM
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
 ht-degree: 100%
 
 ---
 
 
-# E メール配信アクティビティと配信アクティビティの比較
+# メール配信アクティビティと配信アクティビティの比較
 
 [!UICONTROL 「配信」タイプのアクティビティ]で配信アクションを作成できます。入力要素を使用して構築できます。
 
