@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
 source-git-commit: 7d998bc996a0123b051e7b9a5397cfd49e734eb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '375'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 97%
       + [SMS 配信の作成](/help/send-messages/mobile/create-an-sms-delivery.md)
    + プッシュ{#push}
       + [モバイルアプリチャネルのインストール](/help/send-messages/mobile/install-the-mobile-app.md)
-      + [Experience Platform モバイル SDK を使用したプッシュチャネルの設定](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
+      + [Experience Platform Mobile SDK を使用したプッシュチャネルの設定](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + ダイレクトメール{#direct-mail}
       + [ダイレクトメール配信の作成](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + 配信テンプレートの使用{#using-delivery-templates}
@@ -83,7 +83,7 @@ ht-degree: 97%
    + [スキーマの作成と拡張](/help/data-management/create-and-extend-a-schema.md)
    + [プロファイルのインポート](/help/data-management/import-profiles.md)
    + [データレプリケーション](/help/data-management/data-replication.md)
-   + [API のステージングメカニズム](/help/data-management/api-staging-mechanism.md)
+   + [API ステージングメカニズム](/help/data-management/api-staging-mechanism.md)
    + [チュートリアル：SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja)
 + 他のソリューションとの接続 {#connect}
    + [Snowflake でのビッグデータ管理](/help/connect/big-data-segmentation-on-snowflake.md)
