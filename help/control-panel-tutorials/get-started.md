@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '226'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -55,4 +55,4 @@ Campaign コントロールパネルは、すべての管理者ユーザーが�
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-次にアクセス： [Campaign コントロールパネルヘルプセンター](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) この機能の詳細については、を参照してください。
+この機能について詳しくは、[コントロールパネルヘルプセンター](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja)を参照してください。
