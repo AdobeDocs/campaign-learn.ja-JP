@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -29,15 +29,15 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 * **[データソースの変更](/help/data-management/change-data-source.md)**
 
-   *データソースを変更アクティビティを使用してワークフローの作業用テーブルのデータソースを変更し、FDA、FFDA、ローカルデータベースなど、様々なデータソースにわたるデータを柔軟に管理する方法を説明します。*
+   *データソース変更アクティビティを使用してワークフローの作業用テーブルのデータソースを変更し、FDA、FFDA、ローカルデータベースなど、様々なデータソースをまたいだデータを柔軟に管理する方法を説明します。*
 
 * **[ワークフローを使用したデータ管理の基本](/help/data-management/data-management-fundamentals.md)**
 
-   *ターゲティングディメンションと作業用テーブルの概要、およびAdobe Campaignが異なるデータソース間でデータを管理する方法について説明します。*
+   *ターゲティングディメンションと作業用テーブルの概要と、Adobe Campaign で様々なデータソースにわたるデータを管理する方法について説明します。*
 
-* **[FFDA を使用した API ステージングメカニズム](/help/data-management/api-staging-mechanism.md)**
+* **[FFDA を使用した API ステージングのしくみ](/help/data-management/api-staging-mechanism.md)**
 
-   *フル FDA を使用した API ステージングメカニズムの仕組みについて説明します。*
+   *フル FDA を使用した API ステージングメカニズムのしくみについて説明します。*
 
 ## アドビのお勧め
 
@@ -101,4 +101,4 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 </table>
 
-詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja) この機能の詳細については、を参照してください。
+この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja)を参照してください。
