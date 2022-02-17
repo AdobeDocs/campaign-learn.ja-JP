@@ -1,6 +1,6 @@
 ---
 title: データベースの監視
-description: インスタンスのデータベース使用状況を監視する方法を説明します。
+description: インスタンスのデータベース使用量をモニタリングする方法について説明します。
 feature: Control Panel
 kt: 8519
 thumbnail: 327175.jpg
@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: 9451117b-f1ae-4d92-b75c-233fe8e76482
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 77%
 
 すべての Campaign インスタンスのアセット、ワークフロー、データは、データベースに保存されます。データベースが最大容量に達すると、インスタンスに問題が発生する可能性があります（ログインできない、電子メールを送信できないなど）。したがって、最適なパフォーマンスを確保するために、インスタンスのデータベースを定期的に監視することが不可欠です。
 
-インスタンスのデータベース使用状況を監視する方法を説明します。
+インスタンスのデータベース使用量をモニタリングする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
