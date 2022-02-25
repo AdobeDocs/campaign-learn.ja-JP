@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: ht
-source-wordcount: '411'
-ht-degree: 100%
+source-git-commit: 50b72be4f33e791986cb5bf6d9cc3e1554d427bf
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,13 +19,17 @@ ht-degree: 100%
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計できるプラットフォームであり、キャンペーンの視覚的なオーケストレーション、インタラクションのリアルタイム管理、クロスチャネルの実行などを行える環境です。このユーザーガイドには、Adobe Campaign V8 の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
 >[!INFO]
-> 質問はありますか？ 同僚と経験を共有したり、意見交換したりしますか？または、アドビチームの学習コンテンツに関するフィードバックはありますか？[Adobe Campaign の学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)で会話にご参加ください。
+> 質問はありますか？ 同僚と経験を共有したり、意見交換したりしますか？または、アドビチームの学習コンテンツに関するフィードバックはありますか？[Adobe Campaign の学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)で会話にご参加ください。
 
 >[!NOTE]
 > Campaign v8 は、現在 Managed Cloud Service としてのみ利用でき、オンプレミス環境またはハイブリッド環境にデプロイすることはできません。既存の Campaign Classic v7 環境からは移行できません。
 >Classic v7 と V8 の違いについては、[Classic v7 と V8 の製品ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=ja)を参照してください。説明ビデオについては、[Campaign Classic V7 チュートリアル](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)の節も参照してください。
 
 ## 新着情報
+
+* **[Experience Managerとの統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
+
+*電子メール配信テンプレート、アセットおよびフォームをExperience Managerで管理できるようにAdobe CampaignをAdobe Experience Managerと接続する方法について説明します。*
 
 * **[データソースの変更](/help/data-management/change-data-source.md)**
 
@@ -35,9 +39,6 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
    *ターゲティングディメンションと作業用テーブルの概要と、Adobe Campaign で様々なデータソースにわたるデータを管理する方法について説明します。*
 
-* **[FFDA を使用した API ステージングのしくみ](/help/data-management/api-staging-mechanism.md)**
-
-   *フル FDA を使用した API ステージングメカニズムのしくみについて説明します。*
 
 ## アドビのお勧め
 
