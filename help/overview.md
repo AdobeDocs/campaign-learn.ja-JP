@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 95%
@@ -27,7 +27,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
-* **[Adobe Targetとの統合](/help/connect/target-integration.md)
+* **[Adobe Targetとの統合](/help/connect/target-integration.md)**
 
    *Adobe Targetから提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。*
 
@@ -65,7 +65,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
       <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>メール配信の作成とデザイン</strong>
     </a>
-    </div> 
+    </div>
     <p>
     <em>メール配信を作成するプロセスを理解し、メールコンテンツをデザインおよびパーソナライズする方法を説明します。</em>
     <p>
