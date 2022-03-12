@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 95%
 
 ---
 
@@ -27,17 +27,17 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
-* **[Experience Manager との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)**
+* **[Adobe Targetとの統合](/help/connect/target-integration.md)
+
+   *Adobe Targetから提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。*
+
+* **[Adobe Experience Managerとの統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)**
 
    *メール配信テンプレート、アセットおよびフォームを Experience Manager で管理できるように Adobe Campaign を Adobe Experience Manager と接続する方法について説明します。*
 
 * **[データソースの変更](/help/data-management/change-data-source.md)**
 
    *データソース変更アクティビティを使用してワークフローの作業用テーブルのデータソースを変更し、FDA、FFDA、ローカルデータベースなど、様々なデータソースをまたいだデータを柔軟に管理する方法を説明します。*
-
-* **[ワークフローを使用したデータ管理の基本](/help/data-management/data-management-fundamentals.md)**
-
-   *ターゲティングディメンションと作業用テーブルの概要と、Adobe Campaign で様々なデータソースにわたるデータを管理する方法について説明します。*
 
 
 ## アドビのお勧め
@@ -99,7 +99,33 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     <em>ワークフローから記述的分析レポートを生成する方法を説明します。</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="ワークフローを使用したデータ管理の基本" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>ワークフローを使用したデータ管理の基本</strong>
+    </a>
+    </div>
+    <p>
+    <em>ターゲティングディメンションと作業用テーブルの概要と、Adobe Campaign で様々なデータソースにわたるデータを管理する方法について説明します。</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="FFDA を使用した API ステージングメカニズム" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>FFDA を使用した API ステージングメカニズム</strong>
+    </a>
+    </div>
+    <p>
+    <em>フル FDA を使用した API ステージングメカニズムのしくみについて説明します。</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=ja)を参照してください。
