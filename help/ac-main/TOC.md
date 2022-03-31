@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '392'
 ht-degree: 95%
 
 ---
@@ -25,7 +25,8 @@ ht-degree: 95%
    + [イベントトリガーキャンペーンの作成](/help/get-started/create-event-triggered-campaigns.md)
 + プロファイル管理 {#profile-management}
    + [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
-   + [ワークフローでのプロファイルのターゲット設定](/help/profile-management/target-profiles-in-a-workflow.md)
+   + [プロファイルのインポート](/help/profile-management/import-profiles.md)
+   + [ワークフローでのプロファイルのターゲティング](/help/profile-management/target-profiles-in-a-workflow.md)
 + Campaign オーケストレーション {#campaign-orchestration}
    + [キャンペーンの実行](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [マルチキャンペーンとクロスキャンペーンの概要](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
