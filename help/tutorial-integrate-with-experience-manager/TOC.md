@@ -3,7 +3,7 @@ user-guide-title: Experience Manager との統合
 user-guide-description: メール配信テンプレート、アセットおよびフォームを Experience Manager で管理できるように Adobe Campaign を Adobe Experience Manager と接続する方法について説明します。
 breadcrumb-title: Experience Manager との統合
 source-git-commit: 5b0a6644e9f5407726c5f389db62ab7a0921abac
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 
