@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
 source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '392'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -87,9 +87,9 @@ ht-degree: 95%
    + [API ステージングメカニズム](/help/data-management/api-staging-mechanism.md)
    + [チュートリアル：SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja)
 + 他のソリューションとの接続 {#connect}
-   + [Adobe Experience Managerとの統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)
-   + [Adobe Experience Platformとの統合](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=ja)
-   + [Adobe Targetとの統合](/help/connect/target-integration.md)
+   + [Adobe Experience Manager との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)
+   + [Adobe Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=ja)
+   + [Adobe Target との統合](/help/connect/target-integration.md)
    + [Microsoft Dynamics 365 との統合](/help/connect/dynamics365-integration.md)
 + レポート{#reporting}
    + [ビルトインレポートへのアクセス](/help/reporting/access-built-in-reports.md)
