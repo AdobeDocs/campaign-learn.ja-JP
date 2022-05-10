@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -27,11 +27,11 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
-* **[Adobe Targetとの統合](/help/connect/target-integration.md)**
+* **[Adobe Target との統合](/help/connect/target-integration.md)**
 
-   *Adobe Targetから提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。*
+   *Adobe Target から提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。*
 
-* **[Adobe Experience Managerとの統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)**
+* **[Adobe Experience Manager との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)**
 
    *メール配信テンプレート、アセットおよびフォームを Experience Manager で管理できるように Adobe Campaign を Adobe Experience Manager と接続する方法について説明します。*
 
@@ -96,7 +96,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     </div>
     <p>
-    <em>ワークフローから記述的分析レポートを生成する方法を説明します。</em>
+    <em>ワークフローから記述的分析レポートを生成する方法について説明します。</em>
     <p>
   </td>
   <td>
@@ -122,7 +122,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     </div>
     <p>
-    <em>フル FDA を使用した API ステージングメカニズムのしくみについて説明します。</em>
+    <em>フル FDA を使用した API ステージングメカニズムの仕組みについて説明します。</em>
     <p>
   </td>
 </tr>
