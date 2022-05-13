@@ -10,12 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
-hide: true
-hidefromtoc: true
-source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 36fc9fa4f2e8e20b633d2f5df18b3a4d634535c8
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 98%
 
 ---
 
@@ -28,7 +26,7 @@ ht-degree: 100%
 * タイポロジ
 * 送信者と返信先のアドレス
 * 基本的なパーソナライゼーションブロック
-* ミラーページや購読解除へのリンク
+* ミラーページや購読解除へのリンク リンク
 * コンテンツ、会社のロゴまたは署名
 * リソースの有効性やバッチ数量など、その他の配信プロパティ
 
