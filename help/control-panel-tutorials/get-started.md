@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
-source-wordcount: '226'
-ht-degree: 100%
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
+workflow-type: tm+mt
+source-wordcount: '230'
+ht-degree: 93%
 
 ---
 
@@ -42,9 +42,9 @@ Campaign コントロールパネルは、すべての管理者ユーザーが�
 
 開始する前に、次の前提条件を満たすようにしてください。
 
-### [!DNL IMS Org ID] の確認
+### 組織の ID を確認する
 
-次のビデオでは、インスタンスの [!DNL IMS org ID] を検索できる場所について説明しています。
+次のビデオでは、組織の ID を検索できる場所を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 

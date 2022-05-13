@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 100%
+source-wordcount: '337'
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 100%
 
 ### 症状：Experience Cloud にログインできない
 
-**対処方法：**&#x200B;ユーザーは、自分の IMS 組織 ID（xxx）を見つける必要があります。管理者は、管理するインスタンスごとに、ユーザーを製品プロファイル「Campaign-xxx-Admins」に追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、自分自身をユーザーとして追加する必要があります。
+**対処方法：**
+ユーザーは、組織の ID(xxx) を特定する必要があります。 管理者は、管理するインスタンスごとに、ユーザーを製品プロファイル「Campaign-xxx-Admins」に追加する必要があります。ユーザーがすべてのインスタンスの管理者であっても、自分自身をユーザーとして追加する必要があります。
 
 ### 症状：Experience Cloud ホームで、[!UICONTROL コントロールパネル]にアクセスするためのリンクがユーザーに表示されない
 
@@ -42,7 +43,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*IMS 組織 ID の確認（26 秒）*
+*組織の ID の確認（26 分）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 

@@ -1,22 +1,23 @@
 ---
-title: 繰り返しメールキャンペーンと連続メールキャンペーンの設定方法
+title: 繰り返し E メール配信と連続 E メール配信の作成
 description: 繰り返し配信と連続配信の設定方法およびこれら 2 つのアプローチの違いについて説明します。
 feature: Workflows
 kt: 7982
+thumbnail: 342637.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 100%
+source-wordcount: '232'
+ht-degree: 94%
 
 ---
 
-# 繰り返しメールキャンペーンと連続メールキャンペーンの設定方法
+# 繰り返し E メール配信と連続 E メール配信の作成
 
 このチュートリアルでは、繰り返し配信と連続配信の設定方法およびこれら 2 つのアプローチの違いについて説明します。
 
@@ -38,10 +39,10 @@ ht-degree: 100%
 
 このビデオでは、繰り返し配信とスケジューラーアクティビティを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12)
 
 ## 連続配信の設定方法 {#how-to-set-up-a-continuous-delivery}
 
 このビデオでは、増分処理クエリを使用して連続配信を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12)
