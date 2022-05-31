@@ -10,16 +10,18 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 67b35ad4-bd46-441a-a3e3-402937678770
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
-source-wordcount: '214'
-ht-degree: 100%
+source-git-commit: ea5b7f4f7cd54f7f01acc98e57eac0164dc3981d
+workflow-type: tm+mt
+source-wordcount: '230'
+ht-degree: 95%
 
 ---
 
 # コントロールパネル - 概要
 
 コントロールパネルを使用すると、Adobe Campaign 管理者は、主要なアセットを監視し、インスタンスによる SFTP ストレージの管理、IP アドレスの一覧表示の許可、GPG キーの管理などの管理タスクを実行できます。
+
+詳しくは、 [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja) 最新の製品リリースに関する情報。
 
 ## アドビのお勧め
 
