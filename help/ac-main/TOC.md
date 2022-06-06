@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: dbdb6d0a4d09dd95ac1776e783bfd77cdc313f29
+source-git-commit: af1d6c836b2609c5abe2f82fd32eb7352d512543
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '393'
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,6 @@ ht-degree: 0%
       + [配信品質を考慮したメールの設計](/help/send-messages/email/design-emails-for-deliverability.md)
       + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
    + SMS{#sms}
-      + [Adobe Campaign用の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/configure-sms-account/overview.html)
       + [SMS 配信の作成](/help/send-messages/mobile/create-an-sms-delivery.md)
    + プッシュ{#push}
       + [モバイルアプリチャネルのインストール](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -83,12 +82,13 @@ ht-degree: 0%
    + [リストを更新アクティビティの使用](/help/process-management/use-the-update-list-activity.md)
    + [エンリッチメントアクティビティの設定](/help/process-management/enrichment-activity.md)
    + [スキーマの作成と拡張](/help/data-management/create-and-extend-a-schema.md)
-   + [データのレプリケーション](/help/data-management/data-replication.md)
+   + [プロファイルのインポート](/help/data-management/import-profiles.md)
+   + [データレプリケーション](/help/data-management/data-replication.md)
    + [API ステージングメカニズム](/help/data-management/api-staging-mechanism.md)
    + [チュートリアル：SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja)
 + 他のソリューションとの接続 {#connect}
    + [Adobe Experience Manager との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)
-   + [Adobe Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Adobe Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=ja)
    + [Adobe Target との統合](/help/connect/target-integration.md)
    + [Microsoft Dynamics 365 との統合](/help/connect/dynamics365-integration.md)
 + レポート{#reporting}
