@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+source-git-commit: ce2f58028cb82327588fda9c76ff9fdbbd32fc4f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 97%
+source-wordcount: '417'
+ht-degree: 94%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 97%
       + [配信品質を考慮したメールの設計](/help/send-messages/email/design-emails-for-deliverability.md)
       + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
    + SMS{#sms}
+      + [Adobe Campaign用の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [SMS 配信の作成](/help/send-messages/mobile/create-an-sms-delivery.md)
    + プッシュ{#push}
       + [モバイルアプリチャネルのインストール](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -88,7 +89,7 @@ ht-degree: 97%
    + [チュートリアル：SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja)
 + 他のソリューションとの接続 {#connect}
    + [Adobe Experience Manager との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)
-   + [Adobe Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=ja)
+   + [Adobe Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
    + [Adobe Target との統合](/help/connect/target-integration.md)
    + [Microsoft Dynamics 365 との統合](/help/connect/dynamics365-integration.md)
 + レポート{#reporting}
