@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+source-git-commit: 99904d75300064381bdac3245b290de82990d300
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 75%
@@ -27,7 +27,8 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
-* **[SMS の概要](/help/tutorial-sms/introduction-to-sms.md)**:
+* **[SMS の概要](/help/tutorial-sms/introduction-to-sms.md)**
+
    *SMS の仕組みとAdobe Campaignでの SMS の送信方法を説明します*
 
 * **[標準の SMPP プロバイダーの SMS アカウントを設定する](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
