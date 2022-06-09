@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: ce2f58028cb82327588fda9c76ff9fdbbd32fc4f
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 94%
@@ -47,7 +47,6 @@ ht-degree: 94%
       + [コントロールグループの使用](/help/send-messages/email/use-control-groups.md)
       + [メール配信の問題のトラブルシューティング](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [配信品質を考慮したメールの設計](/help/send-messages/email/design-emails-for-deliverability.md)
-      + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
    + SMS{#sms}
       + [Adobe Campaign用の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [SMS 配信の作成](/help/send-messages/mobile/create-an-sms-delivery.md)
@@ -102,3 +101,4 @@ ht-degree: 94%
    + [コントロールパネル](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=ja)
 + 戦略と思考のリーダーシップ{#strategy}
    + [購読者の再エンゲージメントに関するメールの ROI とベストプラクティスを最大化](/help/strategy/campaign-maximize-email-best-practices.md)
+   + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)

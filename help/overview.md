@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 75%
 
 ---
 
@@ -27,18 +27,20 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
-* **[Adobe Target との統合](/help/connect/target-integration.md)**
+* **[SMS の概要](/help/tutorial-sms/introduction-to-sms.md)**:
+   *SMS の仕組みとAdobe Campaignでの SMS の送信方法を説明します*
 
-   *Adobe Target から提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。*
+* **[標準の SMPP プロバイダーの SMS アカウントを設定する](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-* **[Adobe Experience Manager との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)**
+   *SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。 SMS 設定を微調整して、接続制限の処理、最大スループット、送信ウィンドウ、TLS を使用した暗号化の設定をおこないます。*
 
-   *メール配信テンプレート、アセットおよびフォームを Experience Manager で管理できるように Adobe Campaign を Adobe Experience Manager と接続する方法について説明します。*
+* **[SMS コネクタを SMPP プロバイダーに適応させる](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-* **[データソースの変更](/help/data-management/change-data-source.md)**
+   *接続制限の処理、最大スループット、送信ウィンドウ、TLS を使用した暗号化の設定に関して、SMS 設定を微調整する方法について説明します。*
 
-   *データソース変更アクティビティを使用してワークフローの作業用テーブルのデータソースを変更し、FDA、FFDA、ローカルデータベースなど、様々なデータソースをまたいだデータを柔軟に管理する方法を説明します。*
+* **[メールの ROI を最大化し、購読者の再エンゲージメントに関するベストプラクティスを学びます。](/help/strategy/campaign-maximize-email-best-practices.md)**
 
+   *電子メールの ROI を最大化する方法と、購読者の再エンゲージメントに関するベストプラクティスを学びます。 購読者のエンゲージメントを改善するための戦略を見つけ、電子メールキャンペーンの全体的な成功を把握します。*
 
 ## アドビのお勧め
 
