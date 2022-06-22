@@ -1,11 +1,12 @@
 ---
-title: メールの ROI を最大化し、購読者の再エンゲージメントに関するベストプラクティスを学びます。
-description: '電子メールの ROI を最大化する方法と、購読者の再エンゲージメントに関するベストプラクティスを学びます。 購読者のエンゲージメントを改善するための戦略を見つけ、電子メールキャンペーンの全体的な成功を把握します。 '
+title: メールの ROI の最大化と購読者の再エンゲージメントに関するベストプラクティスの概要
+description: メールの ROI を最大化する方法と、購読者の再エンゲージメントに関するベストプラクティスについて説明します。購読者のエンゲージメントを向上させる戦略とメールキャンペーンの全体的な成功を理解します。
 solution: Campaign
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
+source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
 workflow-type: tm+mt
-source-wordcount: '1453'
-ht-degree: 0%
+source-wordcount: '1471'
+ht-degree: 3%
 
 ---
 
@@ -135,3 +136,5 @@ E メール疲労は、購読者が E メールメッセージの受信に疲れ
 * **テストと学習** ・取り組みが望ましい効果を発揮しているかを確かめるためには、適切なテスト計画が重要です。 動作内容と動作内容を学び、それに応じて繰り返します。
 
 この記事の概要と再エンゲージメント戦略の実装に関する実際のデモについては、 [ウェビナー](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+
+戦略と思考のリーダーシップに関する詳細は、 [顧客の成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) ハブ。
