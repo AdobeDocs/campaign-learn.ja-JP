@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '510'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -29,19 +29,19 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 * **[SMS の概要](/help/tutorial-sms/introduction-to-sms.md)**
 
-   *SMS の仕組みとAdobe Campaignでの SMS の送信方法を説明します*
+   *SMS の仕組みと Adobe Campaign での SMS の送信方法を説明します*
 
-* **[標準の SMPP プロバイダーの SMS アカウントを設定する](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
+* **[標準の SMPP プロバイダーに対応する SMS アカウントの設定](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。 SMS 設定を微調整して、接続制限の処理、最大スループット、送信ウィンドウ、TLS を使用した暗号化の設定をおこないます。*
+   *SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行います。*
 
-* **[SMS コネクタを SMPP プロバイダーに適応させる](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+* **[SMPP プロバイダーへの SMS コネクタの適応](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-   *接続制限の処理、最大スループット、送信ウィンドウ、TLS を使用した暗号化の設定に関して、SMS 設定を微調整する方法について説明します。*
+   *SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行う方法について説明します。*
 
-* **[メールの ROI を最大化し、購読者の再エンゲージメントに関するベストプラクティスを学びます。](/help/strategy/campaign-maximize-email-best-practices.md)**
+* **[メールの ROI の最大化と購読者の再エンゲージメントに関するベストプラクティスの概要](/help/strategy/campaign-maximize-email-best-practices.md)**
 
-   *電子メールの ROI を最大化する方法と、購読者の再エンゲージメントに関するベストプラクティスを学びます。 購読者のエンゲージメントを改善するための戦略を見つけ、電子メールキャンペーンの全体的な成功を把握します。*
+   *メールの ROI を最大化する方法と、購読者の再エンゲージメントに関するベストプラクティスについて説明します。購読者のエンゲージメントを向上させるための戦略とメールキャンペーンの全体的な成功を理解します。*
 
 ## アドビのお勧め
 
