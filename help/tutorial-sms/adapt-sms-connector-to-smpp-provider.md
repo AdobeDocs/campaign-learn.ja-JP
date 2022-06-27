@@ -1,23 +1,23 @@
 ---
-title: SMS コネクタを SMPP プロバイダーに適応させる
-description: 接続制限の処理、最大スループット、送信ウィンドウ、TLS を使用した暗号化の設定に関して、SMS 設定を微調整する方法について説明します。
+title: SMPP プロバイダーへの SMS コネクタの適応
+description: SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行う方法について説明します。
 feature: SMS
 thumbnail: 343622.jpg
 kt: 9741
-source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
-workflow-type: tm+mt
+exl-id: e84d43a8-6553-4657-9383-5ea91867e811
+source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
+# SMPP プロバイダーへの SMS コネクタの適応
 
-# SMS コネクタを SMPP プロバイダーに適応させる
+![v7 および v8 に適用](../assets/V7-V8-stamp.png)
 
-![V7、V8 に適用](../assets/V7-V8-stamp.png)
-
-SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。 SMS 設定を微調整して、接続制限の処理、最大スループット、送信ウィンドウ、TLS を使用した暗号化の設定をおこないます。
+SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。 SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行います。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12)
 
-詳しくは、 [SMS コネクタのプロトコルと設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=ja#sending-messages) SMPP プロトコル、外部アカウント設定の詳細、または最も一般的な問題のトラブルシューティングに関する詳細。
+SMPP プロトコル、外部アカウント設定の詳細、最も一般的な問題のトラブルシューティングについて詳しくは、[SMS コネクタのプロトコルと設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=ja#sending-messages)を参照してください。
