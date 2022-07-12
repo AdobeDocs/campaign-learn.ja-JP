@@ -4,9 +4,9 @@ description: メールの ROI を最大化する方法と、購読者の再エ�
 solution: Campaign
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
 source-git-commit: f52e9f8cdb630c71af5e0a8c048c91a1db6b7d7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1471'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -137,4 +137,4 @@ ROI を最大化するための 4 つの主な戦略を以下に紹介します�
 
 この記事の振り返りと、再エンゲージメント戦略の導入に関する実際のデモについては、[ウェビナー](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)をご覧ください。
 
-戦略と思考のリーダーシップに関する詳細は、 [顧客の成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) ハブ。
+戦略とソートリーダーシップについて詳しくは、[カスタマーサクセス](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ja)ハブを参照してください。
