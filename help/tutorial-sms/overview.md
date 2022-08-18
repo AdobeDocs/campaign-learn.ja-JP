@@ -3,10 +3,10 @@ title: テクニカルチュートリアル - Adobe Campaign の SMS の設定
 description: SMTP プロバイダー用の SMS アカウントの設定方法と、設定の分析およびトラブルシューティング方法について説明します。
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+source-git-commit: 1fc6cbddbfa5e591704d59c494ce7d2f107a444f
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 87%
 
 ---
 
@@ -23,15 +23,14 @@ ht-degree: 100%
 
 * **[標準の SMPP プロバイダーに対応する SMS アカウントの設定](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。 SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行います。*
+   *SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行います。*
 
 * **[SMPP プロバイダーへの SMS コネクタの適応](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
    *SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行う方法について説明します。*
 
-* **分析とトラブルシューティング**
-
-近日公開
+* **[SMPP プロトコルの詳細な調査とトラブルシューティング]**(help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
+   *SMPP 接続が確立される方法、および SMPP が PDU を介してデータを交換する方法について説明します。 接続のトラブルシューティング方法を説明します。*
 
 >[!NOTE]
 >
