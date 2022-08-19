@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: ht
-source-wordcount: '505'
-ht-degree: 100%
+source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
+workflow-type: tm+mt
+source-wordcount: '480'
+ht-degree: 93%
 
 ---
 
@@ -27,6 +27,9 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 ## 新着情報
 
+* **[SMPP プロトコルの詳細な調査とトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *SMPP 接続が確立される方法、および SMPP が PDU を介してデータを交換する方法について説明します。 接続のトラブルシューティング方法を説明します。*
 
 * **[Campaign コントロールパネル - ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=ja){target=&quot;_blank&quot;}**
 
@@ -35,14 +38,6 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 * **[Campaign コントロールパネル - スループットと遅延の監視](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=ja){target=&quot;_blank&quot;}**
 
    *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間を監視する方法について説明します。*
-
-* **[SMS の概要](/help/tutorial-sms/introduction-to-sms.md)**
-
-   *SMS の仕組みと Adobe Campaign での SMS の送信方法を説明します*
-
-* **[標準の SMPP プロバイダーに対応する SMS アカウントの設定](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行います。*
 
 ## アドビのお勧め
 
