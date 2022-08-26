@@ -4,15 +4,15 @@ description: SMTP プロバイダー用の SMS アカウントの設定方法と
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 3d1734fab0deebd611717e13c813c89ead880e5a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '211'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 # テクニカルチュートリアル - Adobe Campaign の SMS の設定
 
-![v7 および v8 に適用](../assets/V7-V8-stamp.png)
+![対象：v7 および v8](../assets/V7-V8-stamp.png)
 
 このセクションのチュートリアルは、Adobe Campaign の SMS チャネルを設定する管理者を対象としています。
 
@@ -29,9 +29,9 @@ ht-degree: 88%
 
    *SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行う方法について説明します。*
 
-* **[SMPP プロトコルの詳細な調査とトラブルシューティング](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+* **[SMPP プロトコルの詳細とトラブルシューティング](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
 
-   *SMPP 接続が確立される方法、および SMPP が PDU を介してデータを交換する方法について説明します。 接続のトラブルシューティング方法を説明します。*
+   *SMPP 接続を確立する方法および SMPP が PDU を介してデータを交換する方法について説明します。接続のトラブルシューティング方法を説明します。*
 
 >[!NOTE]
 >
