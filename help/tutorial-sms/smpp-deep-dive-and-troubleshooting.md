@@ -1,20 +1,20 @@
 ---
-title: SMPP プロトコルの詳細な調査とトラブルシューティング
+title: SMPP プロトコルの詳細とトラブルシューティング
 description: SMPP 接続が確立される方法、および SMPP が PDU を介してデータを交換する方法について説明します。 接続のトラブルシューティング方法を説明します。
 feature: SMS
 thumbnail: 346489.jpg
 kt: 9739
-source-git-commit: 2e93092e1a433ae57515f08f8a70afa4b85bccf4
-workflow-type: tm+mt
+exl-id: 62c500fd-adb6-481c-a522-2183dd1779a8
+source-git-commit: ea2db5e52d4e1d14485eb64388d9afde9209b6ee
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
+# SMPP プロトコルの詳細とトラブルシューティング
 
-# SMPP プロトコルの詳細な調査とトラブルシューティング
-
-![v7 および v8 に適用](../assets/V7-V8-stamp.png)
+![対象：v7 および v8](../assets/V7-V8-stamp.png)
 
 SMPP 接続が確立される方法、および SMPP が PDU を介してデータを交換する方法について説明します。 接続のトラブルシューティング方法を説明します。
 
