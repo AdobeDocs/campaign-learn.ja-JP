@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign V8 チュートリアル - 概要
-description: Adobe Campaignは、クロスチャネルの顧客エクスペリエンスを設計するためのプラットフォームを提供し、視覚的なキャンペーン編成、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供します。 このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
+description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
@@ -8,15 +8,15 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '464'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 # Adobe Campaign V8 チュートリアル - 概要
 
-Adobe Campaignは、クロスチャネルの顧客エクスペリエンスを設計するためのプラットフォームを提供し、視覚的なキャンペーン編成、リアルタイムのインタラクション管理、クロスチャネルの実行のための環境を提供します。 このユーザーガイドには、Adobe Campaign V8 の数々の特長や機能に関するビデオとチュートリアルが含まれています。
+Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign V8 の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
 >[!INFO]
 > 質問はありますか？ 同僚と経験を共有したり、意見交換したりしますか？または、アドビチームの学習コンテンツに関するフィードバックはありますか？[Adobe Campaign の学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)で会話にご参加ください。
@@ -24,7 +24,7 @@ Adobe Campaignは、クロスチャネルの顧客エクスペリエンスを設
 >[!NOTE]
 > Campaign v8 は、現在 Managed Cloud Service としてのみ利用でき、オンプレミス環境またはハイブリッド環境にデプロイすることはできません。既存の Campaign Classic v7 環境からの自動移行はまだ利用できません。
 >
->詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) Classic v7 から V8 への移行について詳しくは、を参照してください。
+>Classic v7 から V8 への移行について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ja) を参照してください。
 
 ## 新機能
 
@@ -32,11 +32,11 @@ Adobe Campaignは、クロスチャネルの顧客エクスペリエンスを設
 
    *SMPP 接続を確立する方法および SMPP が PDU を介してデータを交換する方法について説明します。接続のトラブルシューティング方法を説明します。*
 
-* **[Campaign コントロールパネル - ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
+* **[コントロールパネル - ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=ja){target=&quot;_blank&quot;}**
 
    *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
 
-* **[Campaign コントロールパネル - スループットと遅延の監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
+* **[コントロールパネル - スループットと待ち時間の監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=ja){target=&quot;_blank&quot;}**
 
    *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間を監視する方法について説明します。*
 
