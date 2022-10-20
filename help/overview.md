@@ -6,15 +6,14 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-recommendations: noDisplay, noCatalog
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: ht
-source-wordcount: '464'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 99%
 
 ---
 
-# Adobe Campaign V8 チュートリアル - 概要
+# Adobe Campaign V8 チュートリアル
 
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign V8 の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
@@ -53,7 +52,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 <div id="staff-picks-section">
 
-## アドビのお勧め
+## スタッフのおすすめ
 
 <table>
 <tr>
