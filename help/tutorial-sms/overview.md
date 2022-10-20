@@ -2,10 +2,11 @@
 title: テクニカルチュートリアル - Adobe Campaign の SMS の設定
 description: SMTP プロバイダー用の SMS アカウントの設定方法と、設定の分析およびトラブルシューティング方法について説明します。
 feature: SMS
+thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: 3d1734fab0deebd611717e13c813c89ead880e5a
+source-git-commit: 285afc4062984320423816e8364f863973834f71
 workflow-type: ht
-source-wordcount: '211'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
