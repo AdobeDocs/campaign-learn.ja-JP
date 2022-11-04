@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: 36e9a53ab0276840eea09c2dffe55562591e54b0
+source-git-commit: ecdb463b01351c9d777cb8161a46f1a33f7892ea
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 100%
+source-wordcount: '424'
+ht-degree: 98%
 
 ---
 
@@ -75,6 +75,7 @@ ht-degree: 100%
       + [キャンペーンの承認の設定](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
       + [配信の承認の設定](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [ワークフローでの承認アクティビティの作成](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [仲間から学ぶ — ワークフローのベストプラクティス](/help/process-management/workflow-best-practices-for-marketers.md)
 + データ管理 {#data-management}
    + [ワークフローを使用したデータ管理の基本](/help/data-management/data-management-fundamentals.md)
    + [データソースの変更](/help/data-management/change-data-source.md)
