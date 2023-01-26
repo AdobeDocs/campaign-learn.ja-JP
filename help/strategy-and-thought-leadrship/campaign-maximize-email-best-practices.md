@@ -4,8 +4,8 @@ description: メールの ROI を最大化する方法と、購読者の再エ�
 solution: Campaign
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
 source-git-commit: e866b1e1130a30d43d4ef59e17f8c58c1b5d6a81
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '1471'
 ht-degree: 100%
 
 ---
