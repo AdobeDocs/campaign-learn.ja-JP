@@ -10,9 +10,9 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 5a8382f0-0662-46cd-90ff-aaf27a7c4fd9
-source-git-commit: 8cf92efcbabad88a239863dc4bdb25ed63f66f7b
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
-source-wordcount: '47'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -24,4 +24,4 @@ Adobe Campaign では、ワークフローを使用して、ターゲティン�
 
 ターゲティングワークフローを使用して複数の配信ターゲットを定義する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on)
