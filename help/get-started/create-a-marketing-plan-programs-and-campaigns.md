@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4338d42f-14e0-48b1-93ff-2155e6ed9f10
-source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -22,4 +22,4 @@ ht-degree: 100%
 マーケティングプラン、プログラム、キャンペーンを作成する方法、キャンペーンのプロパティを設定する方法、スケジュールの使用方法について説明します。
 このビデオでは、ご利用のインスタンスで実行できる演習について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on)
