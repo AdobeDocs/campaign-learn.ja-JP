@@ -1,6 +1,6 @@
 ---
-title: 組み込みレポートへのアクセス
-description: 組み込みのレポートと分析について説明し、配信レポートの生成方法を説明します。
+title: ビルトインレポートへのアクセス
+description: 組み込まれているレポート機能と分析機能、配信レポートの生成方法を説明します。
 feature: Reporting
 kt: 7784
 thumbnail: 334965.jpg
@@ -10,15 +10,15 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 11b67a60-b9f1-450e-a976-d1cca322a243
-source-git-commit: cbe10b1d024b8ed09cdf495659322b67fa33d37a
-workflow-type: tm+mt
-source-wordcount: '35'
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
 
-# 組み込みレポートへのアクセス
+# ビルトインレポートへのアクセス
 
-Adobe Campaign に組み込まれたレポートと分析、配信レポートの生成方法を説明します。
+Adobe Campaign に組み込まれているレポート機能と分析機能、配信レポートの生成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on)
