@@ -10,15 +10,15 @@ team: TM
 role: User
 level: Experienced
 exl-id: 400cb55f-8f40-497d-b8da-3ba7fc750208
-source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
-source-wordcount: '92'
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
 
-# 受信者データを Experience Platform から読み込んでメールを送信する
+# Experience Platform から受信者データをインポートしてメールを送信
 
 Adobe Experience Platform から Campaign に受信者データを読み込むために Adobe Campaign で外部アカウントを設定する方法を説明します。 Experience Platform  から読み込んだ受信者をアップロードおよびターゲティングするワークフローの作成方法を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
