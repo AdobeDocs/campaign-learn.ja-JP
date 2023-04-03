@@ -10,7 +10,7 @@ role: Admin, Developer
 level: Experienced
 recommendations: noCatalog
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '317'
 ht-degree: 100%
@@ -37,7 +37,7 @@ Adobe Campaign では、パーソナライズおよびセグメント化され�
 
    [!DNL Mobile App channel] パッケージを [!DNL Campaign] インスタンスにインストールする必要があります。次のビデオでは、[!DNL Mobile App channel] がインスタンスにインストールされているかどうかを確認する方法と、インストールしていない場合は、インストールの方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
 
 ## チュートリアルの概要
 
