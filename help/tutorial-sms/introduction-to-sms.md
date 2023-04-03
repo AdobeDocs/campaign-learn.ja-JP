@@ -6,9 +6,9 @@ thumbnail: 340957.jpg
 kt: 9743
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: 267e8394-7499-45ef-8394-b216c513649a
-source-git-commit: 285afc4062984320423816e8364f863973834f71
-workflow-type: tm+mt
-source-wordcount: '91'
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 SMS とは何か、SMS サービスプロバイダーの役割、Adobe Campaign でサービスプロバイダーに接続する方法について説明します。 サービスプロバイダーに渡される情報と利用可能なテクニカルノートを理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12&learn=on)
 
 SMPP プロトコル、外部アカウント設定の詳細、最も一般的な問題のトラブルシューティングについて詳しくは、[SMS コネクタのプロトコルと設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=ja#sending-messages)を参照してください。
