@@ -10,9 +10,9 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
-source-wordcount: '50'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 クエリの結果をワークフローの中で結合するために、積集合アクティビティまたは和集合アクティビティを使用してターゲットを絞り込む方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on)
