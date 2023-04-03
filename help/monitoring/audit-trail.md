@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
-source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
-source-wordcount: '101'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -27,6 +27,6 @@ ht-degree: 100%
 
 監査記録ログにアクセスする方法と設定可能な構成について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on)
 
 詳しくは、[監査記録ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=ja)を参照してください。
