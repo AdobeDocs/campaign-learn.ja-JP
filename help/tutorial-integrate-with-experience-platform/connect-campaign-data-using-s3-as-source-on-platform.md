@@ -10,9 +10,9 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: 880c91ab-0e36-45b4-af42-fade61915e38
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
-source-wordcount: '64'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 ソースコネクタを使用してデータを Experience Platform に取り込んだ後、キャンペーンログを書き出してプロファイルデータを更新する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on)
