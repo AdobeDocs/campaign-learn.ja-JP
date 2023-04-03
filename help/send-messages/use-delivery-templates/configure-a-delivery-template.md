@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
-source-git-commit: 36fc9fa4f2e8e20b633d2f5df18b3a4d634535c8
-workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 98%
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 98%
 * タイポロジ
 * 送信者と返信先のアドレス
 * 基本的なパーソナライゼーションブロック
-* ミラーページや購読解除へのリンク リンク
+* ミラーページや購読解除へのリンクリンク
 * コンテンツ、会社のロゴまたは署名
 * リソースの有効性やバッチ数量など、その他の配信プロパティ
 
 次のビデオでは、アドホック配信用のテンプレートを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on)
