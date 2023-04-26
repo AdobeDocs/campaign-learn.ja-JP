@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 97%
       + [条件付きコンテンツを使用した多言語ニュースレターの作成](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [AMP を使用したインタラクティブなメールコンテンツの定義](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [ランディングページの設定](/help/content-creation/configure-landingpages.md)
+   + [調査の作成](/help/content-creation/create-a-survey.md)
 + メッセージの送信{#sending-messages}
    + メール{#email}
       + [メール配信の配達確認の送信と検証](/help/send-messages/email/send-and-validate-proofs.md)
