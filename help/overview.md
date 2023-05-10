@@ -7,8 +7,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: ht
-source-wordcount: '463'
+workflow-type: tm+mt
+source-wordcount: '459'
 ht-degree: 100%
 
 ---
@@ -33,13 +33,13 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
    *SMPP 接続を確立する方法および SMPP が PDU を介してデータを交換する方法について説明します。接続のトラブルシューティング方法を説明します。*
 
-* **[コントロールパネル - ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=ja){target=&quot;_blank&quot;}**
+* **[コントロールパネル - ワークフローの監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=ja){target="_blank"}**
 
    *ワークフローの一時的なストレージ使用状況を監視する方法、およびインスタンスでのデータベースやワークフローの問題を回避するためのワークフロー設定の場所について説明します。*
 
-* **[コントロールパネル - スループットと遅延の監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=ja){target=&quot;_blank&quot;}**
+* **[コントロールパネル - スループットと待ち時間の監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=ja){target="_blank"}**
 
-   *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間を監視する方法について説明します。*
+   *Campaign インスタンスの配信スループットとトランザクションメッセージの待ち時間の監視方法について説明します。*
 
 </div>
 
