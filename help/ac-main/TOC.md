@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
 source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -101,6 +101,6 @@ ht-degree: 97%
    + [コントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ja){target="_blank"}
    + [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ja)
 + 戦略とソートリーダーシップ{#strategy}
-   + [マーケター向けAdobe Campaign成功のベストプラクティス 10](/help/strategy/10-best-practices-for-marketers.md)
+   + [マーケター向けの Adobe Campaign 成功へのベストプラクティス 10](/help/strategy/10-best-practices-for-marketers.md)
    + [メールの ROI の最大化とメール購読者の再エンゲージメントに関するベストプラクティス](/help/strategy/campaign-maximize-email-best-practices.md)
    + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
