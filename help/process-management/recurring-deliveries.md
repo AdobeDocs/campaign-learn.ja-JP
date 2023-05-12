@@ -1,5 +1,5 @@
 ---
-title: 繰り返し E メール配信と連続 E メール配信の作成
+title: 繰り返し配信と連続メール配信の作成
 description: 繰り返し配信と連続配信の設定方法およびこれら 2 つのアプローチの違いについて説明します。
 feature: Workflows
 kt: 7982
@@ -11,13 +11,13 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '232'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
-# 繰り返し E メール配信と連続 E メール配信の作成
+# 繰り返し配信と連続メール配信の作成
 
 このチュートリアルでは、繰り返し配信と連続配信の設定方法およびこれら 2 つのアプローチの違いについて説明します。
 
