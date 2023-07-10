@@ -2,11 +2,11 @@
 title: メール配信アクティビティと配信アクティビティの比較
 description: このビデオでは、配信テンプレートの設定方法と使用方法について説明します。
 feature: Delivery Templates
-kt: 3232
+jira: KT-3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
 source-wordcount: '61'
 ht-degree: 100%
