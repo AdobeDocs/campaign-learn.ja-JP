@@ -2,7 +2,7 @@
 title: 登録している受信者への配信
 description: データを 2 つのセグメントに結合し、記事のアラートメールを作成した上で、外部 API から受け取ったデータに基づいてアラートメールをパーソナライズする方法を説明します。
 feature: Workflows, Targeting Activity, Query Editor
-kt: 8167
+jira: KT-8167
 thumbnail: 336904.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 3280371c-b088-4da9-bc2c-f7a401719db8
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
