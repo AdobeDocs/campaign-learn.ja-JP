@@ -2,7 +2,7 @@
 title: 書き出しワークフローの作成（パート 2） - データの抽出、書式設定、外部アカウントへの保存
 description: 「書き出しワークフローの作成」チュートリアルのこの 2 番目のパートでは、書き出すデータの書式設定方法と、データを外部アカウントに保存する方法を学びます。
 feature: Data Import/Export, Workflows
-kt: 8160
+jira: KT-8160
 thumbnail: 336391.jpg
 doc-type: feature video
 activity: setup
@@ -10,7 +10,7 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
