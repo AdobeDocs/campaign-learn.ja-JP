@@ -2,7 +2,7 @@
 title: マルチチャネルキャンペーンの作成
 description: 受信者の優先チャネルに基づいて、電子メール、SMS、ダイレクトメール配信を使用してマルチチャネルキャンペーンを作成する方法を説明します。
 feature: Workflows
-kt: 7794
+jira: KT-7794
 thumbnail: 335440.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
