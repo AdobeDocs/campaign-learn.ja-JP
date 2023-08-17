@@ -20,19 +20,16 @@ ht-degree: 100%
 ここでは、以下のトピックを取り上げます。
 
 * **[SMS の概要](/help/tutorial-sms/introduction-to-sms.md)**：
-   *SMS の仕組みと、Adobe Campaign での SMS の送信方法を説明します。*
+  *SMS の仕組みと、Adobe Campaign での SMS の送信方法を説明します。*
 
 * **[標準の SMPP プロバイダーに対応する SMS アカウントの設定](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行います。*
+  *SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行います。*
 
 * **[SMPP プロバイダーへの SMS コネクタの適応](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行う方法について説明します。*
+  *SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行う方法について説明します。*
 
 * **[SMPP プロトコルの詳細とトラブルシューティング](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
-
-   *SMPP 接続を確立する方法および SMPP が PDU を介してデータを交換する方法について説明します。接続のトラブルシューティング方法を説明します。*
+  *SMPP 接続を確立する方法および SMPP が PDU を介してデータを交換する方法について説明します。接続のトラブルシューティング方法を説明します。*
 
 >[!NOTE]
 >

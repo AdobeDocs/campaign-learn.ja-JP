@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
 breadcrumb-title: チュートリアル
 source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '434'
 ht-degree: 100%
 
@@ -45,7 +45,7 @@ ht-degree: 100%
 + メッセージの送信{#sending-messages}
    + メール{#email}
       + [メール配信の配達確認の送信と検証](/help/send-messages/email/send-and-validate-proofs.md)
-      + [コントロールグループの使用](/help/send-messages/email/use-control-groups.md)
+      + [コントロール母集団の使用](/help/send-messages/email/use-control-groups.md)
       + [メール配信の問題のトラブルシューティング](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [配信品質を考慮したメールの設計](/help/send-messages/email/design-emails-for-deliverability.md)
    + SMS{#sms}
