@@ -1,6 +1,6 @@
 ---
-title: E メール配信の問題のトラブルシューティング
-description: Campaign での E メール配信問題のトラブルシューティング方法を説明します。
+title: メール配信の問題のトラブルシューティング
+description: Campaign でのメール配信問題のトラブルシューティング方法を説明します。
 feature: Email, Deliverability
 jira: KT-7785
 thumbnail: 334907.jpg
@@ -17,9 +17,9 @@ ht-degree: 100%
 
 ---
 
-# E メール配信の問題のトラブルシューティング
+# メール配信の問題のトラブルシューティング
 
-Campaign での E メール配信問題のトラブルシューティング方法を説明します。
+Campaign でのメール配信問題のトラブルシューティング方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334907?quality=12&learn=on)
 
