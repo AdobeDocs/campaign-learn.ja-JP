@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 97%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 受信者の優先チャネルに基づいて、電子メール、SMS、ダイレクトメール配信を使用してマルチチャネルキャンペーンを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}

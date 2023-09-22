@@ -9,10 +9,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 0a6e09e6-0d23-4267-ba74-39523735e83d
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 97%
 
 ---
 
@@ -24,4 +24,4 @@ Adobe Campaign に含まれているワークフローモジュールを使用�
 
 このビデオでは、Adobe Campaign でワークフローを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
