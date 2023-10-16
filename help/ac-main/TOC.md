@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign を使用すると、マーケターは�
 breadcrumb-title: チュートリアル
 auto-video-transcripts: true
 source-git-commit: c755b1608247d34490d4196f63a6ba6f73dfccf7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '434'
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 0%
       + [モバイルアプリチャネルのインストール](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Experience Platform Mobile SDK を使用したプッシュチャネルの設定](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + ダイレクトメール{#direct-mail}
-      + [ダイレクトメール配信の作成](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
+      + [ダイレクトメール配信を作成](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + 配信テンプレートの使用{#using-delivery-templates}
       + [配信テンプレートの設定](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [配信テンプレートプロパティの設定](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
