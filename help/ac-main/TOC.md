@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
-user-guide-description: Adobe Campaign を使用すると、マーケターはクロスチャネルの顧客エクスペリエンスをデザインすることができ、視覚的なキャンペーンオーケストレーション、リアルタイムのインタラクション管理、クロスチャネルの実行などのための環境が提供されます。
-breadcrumb-title: チュートリアル
+user-guide-description: Adobe Campaign v8 のビデオとチュートリアル。
+breadcrumb-title: Campaign v8Tutorials
 auto-video-transcripts: true
-source-git-commit: c755b1608247d34490d4196f63a6ba6f73dfccf7
-workflow-type: ht
-source-wordcount: '434'
-ht-degree: 100%
+source-git-commit: ddcd89a61daeb2195d23d28d72e4e45b10af6938
+workflow-type: tm+mt
+source-wordcount: '379'
+ht-degree: 97%
 
 ---
 
