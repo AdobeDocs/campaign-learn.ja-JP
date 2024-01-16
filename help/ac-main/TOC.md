@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Adobe Campaign チュートリアル
-user-guide-description: Adobe Campaign v8 のビデオとチュートリアル。
-breadcrumb-title: Campaign v8Tutorials
+user-guide-description: Adobe Campaign V8 クライアントコンソールの機能を使用する方法を説明します。
+breadcrumb-title: クライアントコンソール —Tutorials
 auto-video-transcripts: true
-source-git-commit: ddcd89a61daeb2195d23d28d72e4e45b10af6938
+source-git-commit: cadb9deda9b442d1c241d432ef9ce095e57806f6
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 97%
+source-wordcount: '387'
+ht-degree: 95%
 
 ---
 
