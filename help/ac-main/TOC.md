@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign V8 クライアントコンソールの機能を使用する方法について説明します。
 breadcrumb-title: クライアントコンソール - チュートリアル
 auto-video-transcripts: true
-source-git-commit: cadb9deda9b442d1c241d432ef9ce095e57806f6
+source-git-commit: 096ea99b585d4430ed5c588d910e7c6614f7fc31
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 100%
+source-wordcount: '394'
+ht-degree: 98%
 
 ---
 
@@ -105,3 +105,4 @@ ht-degree: 100%
    + [マーケター向けの Adobe Campaign 成功へのベストプラクティス 10](/help/strategy/10-best-practices-for-marketers.md)
    + [メールの ROI の最大化とメール購読者の再エンゲージメントに関するベストプラクティス](/help/strategy/campaign-maximize-email-best-practices.md)
    + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
++ [Adobe Campaign Web ユーザーインターフェイスチュートリアル](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
