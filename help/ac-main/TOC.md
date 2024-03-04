@@ -5,17 +5,17 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign V8 クライアントコンソールの機能を使用する方法について説明します。
 breadcrumb-title: クライアントコンソール - チュートリアル
 auto-video-transcripts: true
-source-git-commit: 096ea99b585d4430ed5c588d910e7c6614f7fc31
+source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 98%
+source-wordcount: '399'
+ht-degree: 95%
 
 ---
 
 
-# Adobe Campaign v8 チュートリアル {#tutorials}
+# Adobe Campaign v8 Client Console のTutorials {#tutorials}
 
-+ [Adobe Campaign](/help/overview.md)
++ [Campaign v8 クライアントコンソールのTutorials](/help/overview.md)
 + [Campaign v8 の主な機能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ja)
 + はじめに {#getting-started}
    + [Adobe Campaign の概要](/help/get-started/introduction-to-adobe-campaign.md)
