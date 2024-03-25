@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign v8 クライアントコンソールのユーザーインターフェイスの確認
+title: Adobe Campaign v8 クライアントコンソールユーザーインターフェイスについて
 description: Adobe Campaign V8 ユーザーインターフェイスと主な機能の操作方法について説明します。
 feature: Overview
 jira: KT-7828
@@ -11,13 +11,13 @@ role: User
 level: Beginner
 exl-id: 69d47d92-2590-4b3b-801b-493fbe4df2ce
 source-git-commit: 1844c9ee8f8ad62275fe7a1d306019ed1a92f6f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
-# Adobe Campaign v8 クライアントコンソールのユーザーインターフェイスの確認
+# Adobe Campaign v8 クライアントコンソールユーザーインターフェイスについて
 
 Adobe Campaign V8 ユーザーインターフェイスと主な機能の操作方法について説明します。
 

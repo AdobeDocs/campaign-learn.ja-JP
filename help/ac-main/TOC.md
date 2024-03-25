@@ -6,16 +6,16 @@ user-guide-description: Adobe Campaign V8 クライアントコンソールの�
 breadcrumb-title: クライアントコンソール - チュートリアル
 auto-video-transcripts: true
 source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '399'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign v8 Client Console のTutorials {#tutorials}
+# Adobe Campaign v8 クライアントコンソールチュートリアル {#tutorials}
 
-+ [Campaign v8 クライアントコンソールのTutorials](/help/overview.md)
++ [Campaign v8 クライアントコンソールチュートリアル](/help/overview.md)
 + [Campaign v8 の主な機能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ja)
 + はじめに {#getting-started}
    + [Adobe Campaign の概要](/help/get-started/introduction-to-adobe-campaign.md)
@@ -105,4 +105,4 @@ ht-degree: 95%
    + [マーケター向けの Adobe Campaign 成功へのベストプラクティス 10](/help/strategy/10-best-practices-for-marketers.md)
    + [メールの ROI の最大化とメール購読者の再エンゲージメントに関するベストプラクティス](/help/strategy/campaign-maximize-email-best-practices.md)
    + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
-+ [Adobe Campaign Web ユーザーインターフェイスチュートリアル](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [Adobe Campaign web ユーザーインターフェイスチュートリアル](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=ja)
