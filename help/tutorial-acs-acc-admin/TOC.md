@@ -3,17 +3,16 @@ user-guide-title: 管理者および開発者向けのAdobe Campaign v8 の基�
 user-guide-description: このチュートリアルでは、概要を説明します
 breadcrumb-title: Adobe Campaignの概要（管理者向け）
 index: false
-source-git-commit: b88ed11f89d4d17a79c9474ad93116d01e469795
+source-git-commit: d8a2fd94d67e656b223aa0c580b81fee4c35a520
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 12%
+source-wordcount: '61'
+ht-degree: 14%
 
 ---
 
 
-# 管理者および開発者向けAdobe Campaign v8 の概要{#get-started-with-campaign-v8-for-admins-and-developers}
+# 管理者および開発者向けAdobe Campaign v8 の概要 {#get-started-with-campaign-v8-for-admins-and-developers}
 
-+ [管理者および開発者向けAdobe Campaign v8 の概要]
 + [環境の設定]{#set-up-environments}
    + [Campaign 実装のガイドライン](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}
    + [Adobe Campaign クライアントコンソールのインストールと設定](/help/tutorial-acs-acc-admin/install-the-client-console.md)
