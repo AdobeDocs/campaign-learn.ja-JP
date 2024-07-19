@@ -4,7 +4,7 @@ user-guide-description: このチュートリアルでは、Adobe Campaign か�
 breadcrumb-title: Android 向けプッシュ通知の概要
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
