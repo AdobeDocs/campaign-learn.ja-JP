@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign V8 クライアントコンソールの機能を使用する方法について説明します。
 breadcrumb-title: クライアントコンソール - チュートリアル
 auto-video-transcripts: true
-source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
+source-git-commit: 1a4c03a96bb1002cf4e936e8d413af3ac1957252
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
@@ -49,6 +49,8 @@ ht-degree: 100%
       + [コントロール母集団の使用](/help/send-messages/email/use-control-groups.md)
       + [メール配信の問題のトラブルシューティング](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [配信品質を考慮したメールの設計](/help/send-messages/email/design-emails-for-deliverability.md)
+      + [メールの ROI の最大化とメール購読者の再エンゲージメントに関するベストプラクティス](/help/strategy/campaign-maximize-email-best-practices.md)
+      + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
    + SMS{#sms}
       + [SMS 配信の作成](/help/send-messages/mobile/create-an-sms-delivery.md)
    + プッシュ{#push}
@@ -103,6 +105,4 @@ ht-degree: 100%
    + [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ja)
 + 戦略とソートリーダーシップ{#strategy}
    + [マーケター向けの Adobe Campaign 成功へのベストプラクティス 10](/help/strategy/10-best-practices-for-marketers.md)
-   + [メールの ROI の最大化とメール購読者の再エンゲージメントに関するベストプラクティス](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
 + [Adobe Campaign web ユーザーインターフェイスチュートリアル](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=ja)
