@@ -4,9 +4,9 @@ description: このチュートリアルでは、Campaign v8 の主な機能の�
 role: User
 level: Beginner, Experienced
 jira: KT-15788
-source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
+source-git-commit: 93a68053823fe4aefbd6a755b957b4eea8d6a163
 workflow-type: ht
-source-wordcount: '863'
+source-wordcount: '849'
 ht-degree: 100%
 
 ---
@@ -29,8 +29,6 @@ Adobe Campaign v8 には、クライアントコンソールまたは web ユー
 2. [リストの参照とフィルタリング](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/start/list-filters)
 
 ## ヘルプとガイダンスの検索
-
-UI 内で製品ドキュメントにアクセスするには、[AI を活用したコンテキストヘルプ](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/start/using-ai){target="_blank"}を参照してください。
 
 [Adobe Campaign Web ユーザーインターフェイスドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home)
 
