@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign V8 クライアントコンソールの機能を使用する方法について説明します。
 breadcrumb-title: クライアントコンソール - チュートリアル
 auto-video-transcripts: true
-source-git-commit: ebca0bb940fbcd5b8e3505d30f1e4caa339853bf
-workflow-type: ht
-source-wordcount: '411'
-ht-degree: 100%
+source-git-commit: e10b192da04774d44652e6771c17b6d823a74636
+workflow-type: tm+mt
+source-wordcount: '405'
+ht-degree: 98%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 + [Campaign v8 の主な機能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ja)
 + はじめに {#getting-started}
    + [Adobe Campaign の概要](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Campaign Standard からの移行後の Adobe Campaign v8 の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=ja)
+   + [Adobe Campaign v8 導入ガイド ](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
    + [Adobe Campaign クライアントコンソールのインストールと設定](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Adobe Campaign ユーザーインターフェイスについて](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [マーケティングキャンペーンの管理](/help/get-started/manage-marketing-campaigns.md)
