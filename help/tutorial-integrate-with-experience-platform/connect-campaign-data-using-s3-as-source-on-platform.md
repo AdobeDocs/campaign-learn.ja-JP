@@ -21,4 +21,4 @@ ht-degree: 100%
 
 ソースコネクタを使用してデータを Experience Platform に取り込んだ後、キャンペーンログを書き出してプロファイルデータを更新する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452026?quality=12&learn=on&captions=jpn){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Experience Platform から Campaign に受信者データを読み込むために Adobe Campaign で外部アカウントを設定する方法を説明します。 Experience Platform から読み込んだ受信者をアップロードおよびターゲティングするワークフローの作成方法を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453478?quality=12&learn=on&captions=jpn){transcript=true}

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 このビデオでは、EU 一般データ保護規則（GDPR）およびカリフォルニア州消費者プライバシー法（CCPA）に関する Adobe Campaign のコンプライアンスについても説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452092?quality=12&learn=on&captions=jpn){transcript=true}

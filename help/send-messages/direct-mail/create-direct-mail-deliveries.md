@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL Adobe Campaign] における[!UICONTROL ダイレクトメール]の仕組みと、[!UICONTROL ダイレクトメール]配信の作成、フォーマット、実行の方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3414039?quality=12&learn=on&captions=jpn){transcript=true}

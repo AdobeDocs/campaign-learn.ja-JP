@@ -21,4 +21,4 @@ ht-degree: 100%
 
 キャンペーンを実行し、メール配信や配信プロパティを確認する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334908?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452957?quality=12&learn=on&captions=jpn){transcript=true}

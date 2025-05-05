@@ -23,4 +23,4 @@ ht-degree: 100%
 
 受信者の優先チャネルに基づいて、電子メール、SMS、ダイレクトメール配信を使用してマルチチャネルキャンペーンを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452504?quality=12&learn=on&captions=jpn){transcript=true}

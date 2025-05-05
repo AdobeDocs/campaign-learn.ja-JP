@@ -21,4 +21,4 @@ ht-degree: 100%
 
 疲労管理では、受信者への過剰勧誘を避けるために、メッセージの頻度と数量を制御します。フィルターを使用して Adobe Campaign に疲労管理を実装する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444601?quality=12&learn=on&captions=jpn){transcript=true}

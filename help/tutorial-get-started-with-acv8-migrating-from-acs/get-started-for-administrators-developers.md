@@ -25,7 +25,7 @@ ht-degree: 100%
 
 主な管理および設定タスクは、[Admin Console] で実行されます。最初の手順は、環境を設定することです。次のビデオでは、Adobe Campaign クライアントコンソールをダウンロードしてインストールし、インスタンスへの接続を管理する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449878?quality=12&learn=on&captions=jpn){transcript=true}
 
 詳しくは、[クライアントコンソールを使用した Campaign への接続](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/new/connect){target="_blank"}を参照してください。
 
@@ -55,7 +55,7 @@ Adobe Campaign では、ユーザーに割り当てる権限を定義し管理�
 
 ターゲティングディメンションと作業用テーブルの概要と、様々なデータソースをまたいだデータを Adobe Campaign で管理する仕組みについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452592?quality=12&learn=on&captions=jpn){transcript=true}
 
 
 ### スキーマの作成と拡張

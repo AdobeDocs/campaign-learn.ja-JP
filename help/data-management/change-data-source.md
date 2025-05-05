@@ -20,6 +20,6 @@ ht-degree: 100%
 
 データソース変更アクティビティを使用してワークフローの作業用テーブルのデータソースを変更し、FDA、FFDA、ローカルデータベースなど、様々なデータソースをまたいだデータを柔軟に管理する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449531?quality=12&learn=on&captions=jpn){transcript=true}
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/workflows.html?lang=ja#change-data-source-activity)を参照してください。

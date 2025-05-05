@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Adobe Campaign Soap API を使用し、API 経由で受信したデータに基づいて高度な配信ワークフローを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3438335?quality=12&learn=on&captions=jpn){transcript=true}
 
 次のビデオ：[手順 1：SOAP API の基本を学ぶ](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)

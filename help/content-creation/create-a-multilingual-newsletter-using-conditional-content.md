@@ -23,4 +23,4 @@ ht-degree: 100%
 
 多言語ニュースレターを例に、条件付きコンテンツを配信に追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426535?quality=12&learn=on&captions=jpn){transcript=true}

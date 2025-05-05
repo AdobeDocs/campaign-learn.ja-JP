@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Adobe Campaign での SMPP アカウントの設定方法、SMS 配信結果の分析方法、SMPP プロバイダーの仕様に合わせた SR 処理のカスタマイズ方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454241?quality=12&learn=on&captions=jpn){transcript=true}
 
 SMPP プロトコル、外部アカウント設定の詳細、最も一般的な問題のトラブルシューティングについて詳しくは、[SMS コネクタのプロトコルと設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=ja#sending-messages)を参照してください。

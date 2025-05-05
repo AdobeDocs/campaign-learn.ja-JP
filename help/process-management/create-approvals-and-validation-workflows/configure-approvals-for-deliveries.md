@@ -22,4 +22,4 @@ ht-degree: 100%
 
 承認手順とレビュー担当者が配信間で異なる場合は、配信レベルで承認を設定します。
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437646?quality=12&learn=on&captions=jpn){transcript=true}

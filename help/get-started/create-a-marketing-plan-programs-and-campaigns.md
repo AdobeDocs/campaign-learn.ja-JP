@@ -22,4 +22,4 @@ ht-degree: 100%
 マーケティングプラン、プログラム、キャンペーンを作成する方法、キャンペーンのプロパティを設定する方法、スケジュールの使用方法について説明します。
 このビデオでは、ご利用のインスタンスで実行できる演習について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449894?quality=12&learn=on&captions=jpn){transcript=true}

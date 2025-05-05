@@ -27,6 +27,6 @@ ht-degree: 100%
 
 以下のビデオでは、Adobe Campaign で AMP をアクティブ化する方法を説明し、使用法を紹介しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35081?quality=12&learn=on&captions=jpn){transcript=true}
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ja#about-amp-for-email)を参照してください。

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 インスタンスの負荷を監視し、それに応じてワークフローのスケジュールを計画する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342084?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445398?quality=12&learn=on&captions=jpn){transcript=true}

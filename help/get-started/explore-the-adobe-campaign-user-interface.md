@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign V8 ユーザーインターフェイスと主な機能の操作方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426439?quality=12&learn=on&captions=jpn){transcript=true}

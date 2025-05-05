@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Campaign と Experience Cloud 間でのデータの共有方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441265?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## その他のリソース
 

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 ターゲティングディメンションと作業用テーブルの概要と、様々なデータソースをまたいだデータを Adobe Campaign で管理する仕組みについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452592?quality=12&learn=on&captions=jpn){transcript=true}

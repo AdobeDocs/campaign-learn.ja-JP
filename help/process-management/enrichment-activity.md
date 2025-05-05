@@ -24,4 +24,4 @@ ht-degree: 100%
 
 配信ログ情報に基づいてエンリッチメントアクティビティを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452169?quality=12&learn=on&captions=jpn){transcript=true}

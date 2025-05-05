@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Adobe Campaign Classic で調査を作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448074/?learn=on&captions=jpn){transcript=true}
 
 >[!NOTE]
 >このビデオは Campaign Classic V7 UI に記録されますが、Campaign V8 でも有効です。

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Campaign でプロファイルをインポートする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342085?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344568?quality=12&learn=on&captions=jpn){transcript=true}

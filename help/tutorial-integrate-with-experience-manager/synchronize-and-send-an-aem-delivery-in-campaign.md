@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Campaign の Experience Manager で作成したニュースレターをテストおよび送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444749?quality=12&learn=on&captions=jpn){transcript=true}

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 SMS とは何か、SMS サービスプロバイダーの役割、Adobe Campaign でサービスプロバイダーに接続する方法について説明します。 サービスプロバイダーに渡される情報と利用可能なテクニカルノートを理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416810?quality=12&learn=on&captions=jpn){transcript=true}
 
 SMPP プロトコル、外部アカウント設定の詳細、最も一般的な問題のトラブルシューティングについて詳しくは、[SMS コネクタのプロトコルと設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=ja#sending-messages)を参照してください。

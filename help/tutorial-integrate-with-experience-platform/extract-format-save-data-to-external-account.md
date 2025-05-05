@@ -21,7 +21,7 @@ ht-degree: 100%
 
 「書き出しワークフローの作成」チュートリアルのこの 2 番目のパートでは、書き出すデータの書式設定方法と、データを外部アカウントに保存する方法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449895?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## Assets
 

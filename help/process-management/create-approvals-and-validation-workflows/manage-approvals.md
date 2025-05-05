@@ -23,4 +23,4 @@ ht-degree: 100%
 
 キャンペーンと承認を設定する方法、および配信の承認とワークフローの承認の違いについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432531?quality=12&learn=on&captions=jpn){transcript=true}

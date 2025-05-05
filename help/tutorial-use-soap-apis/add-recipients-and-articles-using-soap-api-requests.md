@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Campaign SOAP API を使用して新しい受信者を作成する方法を説明します。 SOAP API を使用してカスタム記事データスキーマを作成し、記事を送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336386?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453533?quality=12&learn=on&captions=jpn){transcript=true}
 
 次のビデオ：[手順 3 - SOAP API を使用したユーザーの登録](/help/tutorial-use-soap-apis/subscribe-users-via-soap-api.md)

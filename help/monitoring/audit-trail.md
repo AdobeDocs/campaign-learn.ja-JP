@@ -27,6 +27,6 @@ ht-degree: 100%
 
 監査記録ログにアクセスする方法と設定可能な構成について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444235?quality=12&learn=on&captions=jpn){transcript=true}
 
 詳しくは、[監査記録ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=ja)を参照してください。

@@ -21,5 +21,5 @@ Adobe Campaign と Adobe Experience Manager を接続して、メール配信テ
 
 次のビデオでは、学習内容を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344275?quality=12&learn=on&captions=jpn){transcript=true}
 

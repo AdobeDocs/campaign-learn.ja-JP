@@ -32,4 +32,4 @@ ht-degree: 92%
 
 次のビデオでは、アドホック配信用のテンプレートを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409248?quality=12&learn=on&captions=jpn){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 標準的な除外をワークフローに適用して、ターゲットを絞り込む方法を説明します。定義済みフィルターを作成し、ワークフローをトラブルシューティングする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452924?quality=12&learn=on&captions=jpn){transcript=true}

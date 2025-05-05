@@ -21,4 +21,4 @@ ht-degree: 100%
 
 メール配信を作成するプロセスを理解し、メールコンテンツを設計およびパーソナライズする方法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444310?quality=12&learn=on&captions=jpn){transcript=true}

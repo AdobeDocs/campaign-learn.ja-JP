@@ -20,4 +20,4 @@ ht-degree: 100%
 
 SMPP 接続が確立される方法、および SMPP が PDU を介してデータを交換する方法について説明します。 接続のトラブルシューティング方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453412?quality=12&learn=on&captions=jpn){transcript=true}

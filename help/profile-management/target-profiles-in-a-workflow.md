@@ -22,7 +22,7 @@ ht-degree: 100%
 
 キャンペーンワークフローの使用法を理解し、ワークフローを作成する方法と、フィルタリング条件を使用してワークフロー内のプロファイルをターゲティングする方法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453577?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## 次に見るべきチュートリアル
 

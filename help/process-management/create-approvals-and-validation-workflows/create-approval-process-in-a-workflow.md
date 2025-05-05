@@ -20,4 +20,4 @@ ht-degree: 100%
 
 ワークフロー内で承認プロセスを作成して、配信を開始する前にターゲティングの選択ロジックを審査し承認できるようにする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3442035?quality=12&learn=on&captions=jpn){transcript=true}

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 キャンペーンワークフローのすべての配信についてレビュー担当者のセットが同じ場合は、承認をキャンペーンレベルで設定してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446498?quality=12&learn=on&captions=jpn){transcript=true}

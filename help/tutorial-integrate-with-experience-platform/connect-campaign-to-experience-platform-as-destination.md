@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Amazon S3 の接続タイプを使用し、宛先に対して Adobe Experience Platform セグメントをアクティブ化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453122?quality=12&learn=on&captions=jpn){transcript=true}

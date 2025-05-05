@@ -21,4 +21,4 @@ ht-degree: 100%
 
 SMS 配信の作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335706?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441805?quality=12&learn=on&captions=jpn){transcript=true}

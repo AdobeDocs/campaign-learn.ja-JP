@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign が アドビのデジタルエクスペリエンスのポートフォリオにどのように適合するかを説明し、主な特徴と機能について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335365?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453313?quality=12&learn=on&captions=jpn){transcript=true}

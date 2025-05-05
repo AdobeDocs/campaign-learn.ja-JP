@@ -21,4 +21,4 @@ ht-degree: 100%
 
 確認が必要な重要な設定や回避すべき潜在的な問題など、Experience Manager と Campaign の統合を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445897?quality=12&learn=on&captions=jpn){transcript=true}

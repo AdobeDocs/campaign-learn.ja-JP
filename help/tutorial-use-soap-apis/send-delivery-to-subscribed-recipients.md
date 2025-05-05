@@ -21,4 +21,4 @@ ht-degree: 100%
 
 データを 2 つのセグメントに結合し、記事のアラートメールを作成した上で、外部 API から受け取ったデータに基づいてアラートメールをパーソナライズする方法を説明します。 前の手順：[記事と受信者のサブスクリプション値をクエリする](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)ビデオで作成したワークフローの構築を続けます。
 
->[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449565?quality=12&learn=on&captions=jpn){transcript=true}

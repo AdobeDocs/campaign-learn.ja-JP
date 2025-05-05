@@ -21,4 +21,4 @@ ht-degree: 100%
 
 様々なタイプの動的コンテンツの概要と、パーソナライゼーションブロックと条件付きステートメントを作成して配信に適用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452865?quality=12&learn=on&captions=jpn){transcript=true}

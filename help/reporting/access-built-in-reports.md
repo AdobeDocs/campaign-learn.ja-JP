@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign に組み込まれているレポート機能と分析機能、配信レポートの生成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448284?quality=12&learn=on&captions=jpn){transcript=true}
