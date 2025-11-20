@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 + [Campaign v8 クライアントコンソールチュートリアル](/help/overview.md)
 + [Campaign v8 の主な機能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ja)
-+ はじめに {#getting-started}
++ 基本を学ぶ {#getting-started}
    + [Adobe Campaign の概要](/help/get-started/introduction-to-adobe-campaign.md)
    + [Adobe Campaign v8 導入ガイド](https://experienceleague.adobe.com/ja/docs/campaign-web/acs-to-ac/home)
    + [Adobe Campaign クライアントコンソールのインストールと設定](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
@@ -28,14 +28,14 @@ ht-degree: 100%
 + プロファイル管理 {#profile-management}
    + [プロファイルの作成と管理](/help/profile-management/create-and-manage-profiles.md)
    + [プロファイルのインポート](/help/profile-management/import-profiles.md)
-   + [ワークフローでのプロファイルのターゲティング](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Campaign オーケストレーション {#campaign-orchestration}
+   + [ワークフローでのプロファイルのターゲット](/help/profile-management/target-profiles-in-a-workflow.md)
++ キャンペーンオーケストレーション {#campaign-orchestration}
    + [キャンペーンの実行](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [マルチキャンペーンとクロスキャンペーンの概要](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [マルチチャネルキャンペーンの作成](/help/orchestrate-campaigns/multi-channel-campaigns.md)
    + [クロスチャネルキャンペーンの作成](/help/orchestrate-campaigns/cross-channel-campaigns.md)
-+ コンテンツの作成{#content-creation}
-   + メール{#email}
++ コンテンツの作成 {#content-creation}
+   + メール {#email}
       + [メール配信の作成とデザイン](/help/content-creation/create-and-design-email-deliveries.md)
       + [動的コンテンツの設定](/help/content-creation/configure-dynamic-content.md)
       + [動的コンテンツブロックを使用したメールのパーソナライズ](/help/content-creation/personalize-using-dynamic-content-blocks.md)
@@ -45,19 +45,19 @@ ht-degree: 100%
    + [ランディングページの設定](/help/content-creation/configure-landingpages.md)
    + [調査の作成](/help/content-creation/create-a-survey.md)
 + メッセージの送信{#sending-messages}
-   + メール{#email}
+   + メール {#email}
       + [メール配信の配達確認の送信と検証](/help/send-messages/email/send-and-validate-proofs.md)
       + [コントロール母集団の使用](/help/send-messages/email/use-control-groups.md)
       + [メール配信の問題のトラブルシューティング](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [配信品質を考慮したメールの設計](/help/send-messages/email/design-emails-for-deliverability.md)
       + [メールの ROI の最大化とメール購読者の再エンゲージメントに関するベストプラクティス](/help/strategy/campaign-maximize-email-best-practices.md)
       + [配信品質のベストプラクティスガイド](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ja)
-   + SMS{#sms}
+   + SMS {#sms}
       + [SMS 配信の作成](/help/send-messages/mobile/create-an-sms-delivery.md)
-   + プッシュ{#push}
+   + プッシュ {#push}
       + [モバイルアプリチャネルのインストール](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Experience Platform Mobile SDK を使用したプッシュチャネルの設定](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
-   + ダイレクトメール{#direct-mail}
+   + ダイレクトメール {#direct-mail}
       + [ダイレクトメール配信を作成](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + 配信テンプレートの使用{#using-delivery-templates}
       + [配信テンプレートの設定](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
@@ -90,15 +90,15 @@ ht-degree: 100%
    + [データのレプリケーション](/help/data-management/data-replication.md)
    + [API ステージングメカニズム](/help/data-management/api-staging-mechanism.md)
    + [チュートリアル：SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja)
-+ 他のソリューションとの接続 {#connect}
++ 他のソリューションとの連携 {#connect}
    + [Adobe Experience Manager との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)
    + [Adobe Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=ja)
    + [Adobe Target との統合](/help/connect/target-integration.md)
    + [Microsoft Dynamics 365 との統合](/help/connect/dynamics365-integration.md)
-+ レポート{#reporting}
++ レポート {#reporting}
    + [ビルトインレポートへのアクセス](/help/reporting/access-built-in-reports.md)
    + [記述的な分析レポートの生成](/help/reporting/generate-a-descriptive-analysis-report.md)
-+ 監視{#monitoring}
++ 監視 {#monitoring}
    + [ワークフローヒートマップ](/help/monitoring/workflow-heatmap.md)
    + [監査記録](/help/monitoring/audit-trail.md)
 + 管理 {#administration}
