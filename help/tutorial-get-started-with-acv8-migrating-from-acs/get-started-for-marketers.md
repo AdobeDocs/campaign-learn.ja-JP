@@ -138,9 +138,9 @@ HTML をアップロードしてメールを作成する方法、E メールデ�
 #### &#x200B;3. メールの送信とログの確認
 
 <!-- CARDS
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs
+   * https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/prepare-send
+   * https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/schedule-sending
+   * https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/delivery-logs
  -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -149,7 +149,7 @@ HTML をアップロードしてメールを作成する方法、E メールデ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/schedule-sending" title="配信の送信のスケジュール設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="配信の送信のスケジュール設定"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="配信の送信のスケジュール設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,7 +172,7 @@ HTML をアップロードしてメールを作成する方法、E メールデ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/delivery-logs" title="配信ログの監視" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs./media_137d3bd4aa636d469b951f7d658ff24249d058218.png?width=400&format=png&optimize=medium" alt="配信ログの監視"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/delivery-logs./media_137d3bd4aa636d469b951f7d658ff24249d058218.png?width=400&format=png&optimize=medium" alt="配信ログの監視"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -299,11 +299,11 @@ Adobe Campaign v8 では、Android™ と iOS の両方のプッシュチャネ�
 ## コンテンツ管理
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/personalize
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/conditions
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/offers
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -311,8 +311,8 @@ Adobe Campaign v8 では、Android™ と iOS の両方のプッシュチャネ�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize" title="Campaign でのコンテンツのパーソナライズ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize./media_12f19278a25e98883be1218a564ba7f046bb34d40.png?width=400&format=png&optimize=medium" alt="Campaign でのコンテンツのパーソナライズ"
+                    <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/personalize" title="Campaign でのコンテンツのパーソナライズ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/personalize./media_12f19278a25e98883be1218a564ba7f046bb34d40.png?width=400&format=png&optimize=medium" alt="Campaign でのコンテンツのパーソナライズ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -320,11 +320,11 @@ Adobe Campaign v8 では、Android™ と iOS の両方のプッシュチャネ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize" target="_blank" rel="referrer" title="Campaign でのコンテンツのパーソナライズ">Campaign でのコンテンツのパーソナライズ </a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/personalize" target="_blank" rel="referrer" title="Campaign でのコンテンツのパーソナライズ">Campaign でのコンテンツのパーソナライズ </a>
                     </p>
                     <p class="is-size-6">Adobe Campaign Web でのコンテンツのパーソナライズ方法について説明します</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/personalize" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
                 </a>
             </div>
@@ -334,8 +334,8 @@ Adobe Campaign v8 では、Android™ と iOS の両方のプッシュチャネ�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions" title="条件付きコンテンツの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions./media_1ce24cc4936895252dfddd44820f778e666bdb3b8.png?width=400&format=png&optimize=medium" alt="条件付きコンテンツの作成"
+                    <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/conditions" title="条件付きコンテンツの作成" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/conditions./media_1ce24cc4936895252dfddd44820f778e666bdb3b8.png?width=400&format=png&optimize=medium" alt="条件付きコンテンツの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -343,11 +343,11 @@ Adobe Campaign v8 では、Android™ と iOS の両方のプッシュチャネ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions" target="_blank" rel="referrer" title="条件付きコンテンツの作成"> 条件付きコンテンツの作成 </a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/conditions" target="_blank" rel="referrer" title="条件付きコンテンツの作成"> 条件付きコンテンツの作成 </a>
                     </p>
                     <p class="is-size-6">Adobe Campaign Web でコンテンツをパーソナライズするための条件を定義する方法について説明します</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/conditions" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
                 </a>
             </div>
@@ -357,8 +357,8 @@ Adobe Campaign v8 では、Android™ と iOS の両方のプッシュチャネ�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" title="コンテンツテンプレートの操作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates./media_159392b3df68ef802cfe776fdeec81a1441a44571.png?width=400&format=png&optimize=medium" alt="コンテンツテンプレートの操作"
+                    <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" title="コンテンツテンプレートの操作" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates./media_159392b3df68ef802cfe776fdeec81a1441a44571.png?width=400&format=png&optimize=medium" alt="コンテンツテンプレートの操作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -366,11 +366,11 @@ Adobe Campaign v8 では、Android™ と iOS の両方のプッシュチャネ�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" target="_blank" rel="referrer" title="コンテンツテンプレートの操作">コンテンツテンプレートの操作</a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" target="_blank" rel="referrer" title="コンテンツテンプレートの操作">コンテンツテンプレートの操作</a>
                     </p>
                     <p class="is-size-6">Adobe Campaign のメールのコンテンツを再利用するためのテンプレートを作成する方法について説明します</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
                 </a>
             </div>
@@ -381,7 +381,7 @@ Adobe Campaign v8 では、Android™ と iOS の両方のプッシュチャネ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments" title="コンテンツフラグメントの基本を学ぶ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments./media_1710a103fc90af7ee4bd7dd9cc8954a6cadd33042.png?width=400&format=png&optimize=medium" alt="コンテンツフラグメントの基本を学ぶ"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments./media_1710a103fc90af7ee4bd7dd9cc8954a6cadd33042.png?width=400&format=png&optimize=medium" alt="コンテンツフラグメントの基本を学ぶ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -404,7 +404,7 @@ Adobe Campaign v8 では、Android™ と iOS の両方のプッシュチャネ�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/offers" title="メッセージにオファーを追加" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers./media_1007fce0f51861b591751feda18759a4054cfac77.png?width=400&format=png&optimize=medium" alt="メッセージにオファーを追加"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/offers./media_1007fce0f51861b591751feda18759a4054cfac77.png?width=400&format=png&optimize=medium" alt="メッセージにオファーを追加"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -433,16 +433,16 @@ Adobe Campaign v8 では、Android™ と iOS の両方のプッシュチャネ�
 
 ## レポート
 
-Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/gs-reports) があります。
+Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/gs-reports) があります。
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports
 {title = Delivery Reports}
 {description = Offer a thorough analysis of each delivery's performance, per channel: success rates, audience engagement, and other essential metrics. They allow you to evaluate the overall effectiveness and impact of your campaign.}
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports
 {title = Campaign Reports}
 {description = Provide detailed information on the performance, effectiveness, and outcomes of your individual deliveries, providing you with a comprehensive overview.}
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports
 {title = Global Reports}
 {description = Offer a consolidated overall summary of traffic and engagement metrics for each channel within your Campaign instance. These reports consist of various widgets, each offering a distinct perspective on your campaign or delivery performance.}
 -->
@@ -452,8 +452,8 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" title="配信レポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports./media_1cffb8e35bc7db2ef8a0f3126a2980df463807c2c.png?width=400&format=png&optimize=medium" alt="配信レポート"
+                    <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" title="配信レポート" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports./media_1cffb8e35bc7db2ef8a0f3126a2980df463807c2c.png?width=400&format=png&optimize=medium" alt="配信レポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -461,11 +461,11 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" target="_blank" rel="referrer" title="配信レポート"> 配信報告書 </a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" target="_blank" rel="referrer" title="配信レポート"> 配信報告書 </a>
                     </p>
                     <p class="is-size-6">成功率、オーディエンスのエンゲージメント、その他の重要な指標など、各配信のチャネルごとのパフォーマンスを完全に分析します。キャンペーンの全体的な有効性と影響を評価できます。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
                 </a>
             </div>
@@ -475,8 +475,8 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" title="キャンペーンレポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports./media_1f0d073b24318b6cfae4094273be6035dfa63026e.png?width=400&format=png&optimize=medium" alt="キャンペーンレポート"
+                    <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" title="キャンペーンレポート" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports./media_1f0d073b24318b6cfae4094273be6035dfa63026e.png?width=400&format=png&optimize=medium" alt="キャンペーンレポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -484,11 +484,11 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" target="_blank" rel="referrer" title="キャンペーンレポート"> キャンペーンレポート </a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" target="_blank" rel="referrer" title="キャンペーンレポート"> キャンペーンレポート </a>
                     </p>
                     <p class="is-size-6">個々の配信のパフォーマンス、有効性、結果に関する詳細情報が提供され、包括的な概要が得られます。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
                 </a>
             </div>
@@ -498,8 +498,8 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" title="グローバルレポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports./media_1e3aefd7c07e641a8fc0b20ca46dfbb886e5a003b.png?width=400&format=png&optimize=medium" alt="グローバルレポート"
+                    <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" title="グローバルレポート" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports./media_1e3aefd7c07e641a8fc0b20ca46dfbb886e5a003b.png?width=400&format=png&optimize=medium" alt="グローバルレポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -507,11 +507,11 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" target="_blank" rel="referrer" title="グローバルレポート"> グローバル報告書 </a>
+                        <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" target="_blank" rel="referrer" title="グローバルレポート"> グローバル報告書 </a>
                     </p>
                     <p class="is-size-6">Campaign インスタンス内の各チャネルについて、トラフィックとエンゲージメント指標を連結した全体的な概要を提供します。これらのレポートは様々なウィジェットで構成され、それぞれがキャンペーンや配信パフォーマンスに関する明確な観点を提供します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
                 </a>
             </div>
@@ -525,8 +525,8 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
 ### Adobe Experience Manager
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-assets
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-content
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -535,7 +535,7 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-assets" title="Adobe Experience Manager Assets as a Cloud Service でのアセットの管理" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets./media_1ea8e5cd848d37cef0717acdd54909200646ea4b2.png?width=400&format=png&optimize=medium" alt="Adobe Experience Manager Assets as a Cloud Service でのアセットの管理"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-assets./media_1ea8e5cd848d37cef0717acdd54909200646ea4b2.png?width=400&format=png&optimize=medium" alt="Adobe Experience Manager Assets as a Cloud Service でのアセットの管理"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -558,7 +558,7 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-content" title="Adobe Experience Manager as a Cloud Service でのアセットの管理" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content./media_12fb0d2d1cbd464cc906709dc5456f118b9fdcb4c.png?width=400&format=png&optimize=medium" alt="Adobe Experience Manager as a Cloud Service でのアセットの管理"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-content./media_12fb0d2d1cbd464cc906709dc5456f118b9fdcb4c.png?width=400&format=png&optimize=medium" alt="Adobe Experience Manager as a Cloud Service でのアセットの管理"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -585,10 +585,10 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
 次の統合は、Adobe Campaign クライアントコンソールから使用できますが、Campaign Web ユーザーインターフェイスではまだ使用できません。提供されたリンクを使用して、Campaign v8（クライアントコンソール）ドキュメントを参照し、これらの統合について詳細を確認してください。
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa
-* https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-triggers
+* https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-aa
+* https://experienceleague.adobe.com/ja/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud
+* https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-at
+* https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-triggers
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -597,7 +597,7 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-aa" title="Campaign と Adobe Analytics の操作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa./media_1f07d7a8263e7fa563d2c1ee77e7469c91d3950e7.png?width=400&format=png&optimize=medium" alt="Campaign と Adobe Analytics の操作"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-aa./media_1f07d7a8263e7fa563d2c1ee77e7469c91d3950e7.png?width=400&format=png&optimize=medium" alt="Campaign と Adobe Analytics の操作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -643,7 +643,7 @@ Adobe Campaignには、次の 3 種類の [&#x200B; 標準レポート &#x200B;]
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-at" title="Campaign と Adobe Target の連携" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at./media_1f00f91acd6755164526f838fa5c078c6331cc18a.png?width=400&format=png&optimize=medium" alt="Campaign と Adobe Target の連携"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-at./media_1f00f91acd6755164526f838fa5c078c6331cc18a.png?width=400&format=png&optimize=medium" alt="Campaign と Adobe Target の連携"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
