@@ -18,7 +18,7 @@ ht-degree: 57%
 
 ## Campaign v8 アーキテクチャについて
 
-インスタンスの構築と整理を開始する前に Campaign アーキテクチャについて理解するには、[Campaign アーキテクチャの基本を学ぶ ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} を参照してください。
+インスタンスの構築と整理を開始する前に Campaign アーキテクチャについて理解するには、[Campaign アーキテクチャの基本を学ぶ &#x200B;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} を参照してください。
 
 
 ## クライアントコンソールのインストール
@@ -27,7 +27,7 @@ ht-degree: 57%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
 
-詳しくは、[ クライアントコンソールを使用した Campaign への接続 ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/new/connect){target="_blank"} を参照してください。
+詳しくは、[&#x200B; クライアントコンソールを使用した Campaign への接続 &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/new/connect){target="_blank"} を参照してください。
 
 ## アクセスの設定と管理
 
@@ -43,17 +43,17 @@ ht-degree: 57%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
 
-詳細な手順ガイドの詳細については、[ 製品ドキュメント ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} を参照してください。
+詳細な手順ガイドの詳細については、[&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} を参照してください。
 
 ## インスタンスの設定
 
-* [Campaign 実装ガイドライン ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/config/implement/implement){target="_blank"} を参照して、会社の要件に合わせてAdobe Campaignを調整し、実装を構築および整理する方法を確認してください。
-* [ ここでチャネルを設定 ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
-* [Experience Cloud トリガーの設定 ](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
+* [Campaign 実装ガイドライン &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/config/implement/implement){target="_blank"} を参照して、会社の要件に合わせてAdobe Campaignを調整し、実装を構築および整理する方法を確認してください。
+* [&#x200B; ここでチャネルを設定 &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
+* [Experience Cloud トリガーの設定 &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## デプロイメント
 
-* [ パッケージのインポート/エクスポート ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/developer/packages){target="_blank"}
+* [&#x200B; パッケージのインポート/エクスポート &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/developer/packages){target="_blank"}
 
 ## データ管理
 
