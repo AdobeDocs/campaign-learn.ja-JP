@@ -18,7 +18,7 @@ ht-degree: 57%
 
 ## Campaign v8 アーキテクチャについて
 
-インスタンスの構築と整理を開始する前に Campaign アーキテクチャについて理解するには、[Campaign アーキテクチャの基本を学ぶ &#x200B;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} を参照してください。
+インスタンスの構築と整理を開始する前に Campaign アーキテクチャについて理解するには、[Campaign アーキテクチャの基本を学ぶ &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} を参照してください。
 
 
 ## クライアントコンソールのインストール
@@ -31,7 +31,7 @@ ht-degree: 57%
 
 ## アクセスの設定と管理
 
-1. **[Campaign v8 の権限の基本を学びます。](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
+1. **[Campaign v8 の権限の基本を学びます。](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
 オペレーター、オペレーターグループ（役割）、ネームド権限およびフォルダー権限といった、全体的な権限モデルについて説明します。
 
 2. クライアントコンソールでユーザー権限を管理する方法を説明します。 方法を学ぶ
@@ -43,7 +43,7 @@ ht-degree: 57%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
 
-詳細な手順ガイドの詳細については、[&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} を参照してください。
+詳細な手順ガイドの詳細については、[&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} を参照してください。
 
 ## インスタンスの設定
 
