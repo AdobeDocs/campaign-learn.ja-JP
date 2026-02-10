@@ -21,4 +21,4 @@ SMS とは何か、SMS サービスプロバイダーの役割、Adobe Campaign 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12&learn=on){transcript=true}
 
-SMPP プロトコル、外部アカウント設定の詳細、最も一般的な問題のトラブルシューティングについて詳しくは、[SMS コネクタのプロトコルと設定](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)を参照してください。
+SMPP プロトコル、外部アカウント設定の詳細、最も一般的な問題のトラブルシューティングについて詳しくは、[SMS コネクタのプロトコルと設定](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)を参照してください。

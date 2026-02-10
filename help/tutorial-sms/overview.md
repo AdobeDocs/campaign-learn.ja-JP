@@ -33,4 +33,4 @@ ht-degree: 69%
 
 >[!NOTE]
 >
->このチュートリアルは、Adobe Campaign V7 および Campaign V8 を対象としています。その他の関連リソースは、製品ドキュメント [SMS コネクタのプロトコルと設定](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)を参照してください。
+>このチュートリアルは、Adobe Campaign V7 および Campaign V8 を対象としています。その他の関連リソースは、製品ドキュメント [SMS コネクタのプロトコルと設定](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)を参照してください。
