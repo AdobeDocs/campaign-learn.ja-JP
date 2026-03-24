@@ -4,20 +4,22 @@ product: Adobe Campaign
 solution: Campaign, Campaign v8, Campaign v8 Client Console
 feature-set: Campaign
 version: Campaign v8, Campaign v8 Client Console
+landing-page-name: campaign
+landing-page-breadcrumb-title: Campaign
 type: Tutorial
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-learn.ja-JP
+git-repo: https://github.com/AdobeDocs/campaign-learn.en
 index: true
-source-git-commit: 7b66b000b764b73efce508196260e3fe8534b93f
-workflow-type: ht
-source-wordcount: '53'
-ht-degree: 100%
+source-git-commit: 2ad277572291313333bf8f2624460984bb5e0681
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 0%
 
 ---
 
 
-# 内部で使用されるメタデータ
+# 内部使用のためのメタデータ
 
-metadata.md ファイルには、リポジトリ内のユーザガイド TOC.md ファイルに渡されるリポジトリレベルのメタデータが含まれています。ユーザガイドの metadata.md の内容を変更する場合は、任意の TOC.md ファイルで変更します。
+metadata.md ファイルには、リポジトリ内のユーザーガイド TOC.md ファイルに渡されるリポジトレベルのメタデータが含まれています。 任意のユーザーガイドのmetadata.md コンテンツを変更する場合は、任意のTOC.md ファイルで変更します。
 
-**ソリューション**、**製品**&#x200B;および&#x200B;**タイプ**&#x200B;の有効な値のリストについては、[メタデータ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=ja)を参照してください。
+**solution**、**product**、**type**&#x200B;の有効な値のリストについては、[ メタデータ ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en)を参照してください。
