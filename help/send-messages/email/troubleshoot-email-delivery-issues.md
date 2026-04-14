@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: c98793f7-09cc-4afe-a089-4d31b9ea611f
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '35'
+workflow-type: ht
+source-wordcount: '42'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Campaign でのメール配信問題のトラブルシューティング方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426604?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/334907?quality=12&learn=on){transcript=true}
 
 ## その他のリソース
 
