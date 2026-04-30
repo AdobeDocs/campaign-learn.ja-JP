@@ -10,9 +10,8 @@ team: TM
 role: User, Developer
 level: Experienced
 hide: true
-hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
-source-git-commit: cd0890e8b368b54b5c5a113c57408985355db110
+source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -27,6 +26,6 @@ ht-degree: 100%
 
 以下のビデオでは、Adobe Campaign で AMP をアクティブ化する方法を説明し、使用法を紹介しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/35081?captions=jpn&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ja#about-amp-for-email)を参照してください。
