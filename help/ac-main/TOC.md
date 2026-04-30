@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign チュートリアル
 user-guide-description: Adobe Campaign V8 クライアントコンソールの機能を使用する方法について説明します。
 breadcrumb-title: クライアントコンソール - チュートリアル
 auto-video-transcripts: true
-source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
-workflow-type: ht
+source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
+workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 100%
       + [動的コンテンツブロックを使用したメールのパーソナライズ](/help/content-creation/personalize-using-dynamic-content-blocks.md)
       + [パーソナライゼーションフィールドを使用したメールのパーソナライズ](/help/content-creation/personalize-emails-using-personalization-fields.md)
       + [条件付きコンテンツを使用した多言語ニュースレターの作成](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
-      + [AMP を使用したインタラクティブなメールコンテンツの定義](/help/content-creation/design-interactive-email-content-with-amp.md)
+      + {hide-from-toc}[AMPを使用したインタラクティブな電子メールコンテンツの定義](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [ランディングページの設定](/help/content-creation/configure-landingpages.md)
    + [調査の作成](/help/content-creation/create-a-survey.md)
 + メッセージの送信{#sending-messages}
@@ -55,8 +55,8 @@ ht-degree: 100%
    + SMS {#sms}
       + [SMS 配信の作成](/help/send-messages/mobile/create-an-sms-delivery.md)
    + プッシュ {#push}
-      + [モバイルアプリチャネルのインストール](/help/send-messages/mobile/install-the-mobile-app.md)
-      + [Experience Platform Mobile SDK を使用したプッシュチャネルの設定](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
+      + {hide-from-toc}[&#x200B; モバイルアプリチャネルのインストール &#x200B;](/help/send-messages/mobile/install-the-mobile-app.md)
+      + {hide-from-toc}[Experience Platform Mobile SDKを使用してプッシュチャネルを設定](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + ダイレクトメール {#direct-mail}
       + [ダイレクトメール配信を作成](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + 配信テンプレートの使用{#using-delivery-templates}
@@ -94,7 +94,7 @@ ht-degree: 100%
    + [Adobe Experience Manager との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)
    + [Adobe Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ja)
    + [Adobe Target との統合](/help/connect/target-integration.md)
-   + [Microsoft Dynamics 365 との統合](/help/connect/dynamics365-integration.md)
+   + {hide-from-toc}[Microsoft Dynamics 365との統合](/help/connect/dynamics365-integration.md)
 + レポート {#reporting}
    + [ビルトインレポートへのアクセス](/help/reporting/access-built-in-reports.md)
    + [記述的な分析レポートの生成](/help/reporting/generate-a-descriptive-analysis-report.md)
