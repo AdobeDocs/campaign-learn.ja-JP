@@ -22,4 +22,4 @@ ht-degree: 100%
 
 モバイルアプリチャネルがインスタンスにインストールされているかどうかを確認する方法と、モバイルアプリチャネルのインストール方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340424?captions=jpn&quality=12&learn=on){transcript=true}
