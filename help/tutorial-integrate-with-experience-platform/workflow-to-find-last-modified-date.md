@@ -30,7 +30,7 @@ ht-degree: 100%
 
 エクスポートワークフローの作成チュートリアルのパート 1 では、Experience Platform セグメントから作成された受信者リストの最終変更日を検索するワークフローの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450048?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## Assets
 

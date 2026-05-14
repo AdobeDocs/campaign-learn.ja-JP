@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Adobe Campaign V8 が使用するデータベース、データがレプリケートされる理由、レプリケートされるデータとレプリケーションプロセスの仕組みを理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334460?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417456?captions=jpn&quality=12&learn=on){transcript=true}

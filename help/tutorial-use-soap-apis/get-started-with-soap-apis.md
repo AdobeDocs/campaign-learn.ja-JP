@@ -26,6 +26,6 @@ ht-degree: 100%
 
 API リクエストで使用する Postman を使ってセッショントークンを生成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/336536?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449476?captions=jpn&quality=12&learn=on){transcript=true}
 
 次に視聴するビデオ：[ 手順 2 - 受信者と記事を追加して SOAP API リクエストを使用する ](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)

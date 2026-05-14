@@ -28,4 +28,4 @@ ht-degree: 100%
 
 配信テンプレートのプロパティを設定する方法と各プロパティの詳細を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/338969?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443402?captions=jpn&quality=12&learn=on){transcript=true}

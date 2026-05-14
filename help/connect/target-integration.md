@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Adobe Target から提供される動的コンテンツを使用して配信をパーソナライズする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453258?captions=jpn&quality=12&learn=on){transcript=true}

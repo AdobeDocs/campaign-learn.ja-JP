@@ -28,4 +28,4 @@ ht-degree: 100%
 
 クエリの結果をワークフローの中で結合するために、積集合アクティビティまたは和集合アクティビティを使用してターゲットを絞り込む方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3429334?captions=jpn&quality=12&learn=on){transcript=true}

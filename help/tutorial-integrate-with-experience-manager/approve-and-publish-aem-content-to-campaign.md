@@ -31,5 +31,5 @@ ht-degree: 100%
 
 ニュースレターを Experience Manager で作成し、承認して Campaign に公開する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447572?captions=jpn&quality=12&learn=on){transcript=true}
 

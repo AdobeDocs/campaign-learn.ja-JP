@@ -30,4 +30,4 @@ ht-degree: 100%
 
 タイポロジルールを使用して Adobe Campaign に疲労管理を実装する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448332?captions=jpn&quality=12&learn=on){transcript=true}

@@ -30,7 +30,7 @@ ht-degree: 100%
 
 エクスポートワークフローの作成チュートリアルのパート 2 では、エクスポートするデータの書式設定方法と、データを外部アカウントに保存する方法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449895?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## Assets
 
