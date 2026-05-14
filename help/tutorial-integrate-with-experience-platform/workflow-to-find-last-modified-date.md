@@ -1,6 +1,6 @@
 ---
-title: 書き出しワークフローの作成（パート 1） - 受信者リストの最終変更日を検索する
-description: 「書き出しワークフローの作成」チュートリアルの最初の部分では、Experience Platform セグメントから作成された受信者リストの最終変更日を検索するワークフローの作成方法を説明します。
+title: エクスポートワークフローの作成（パート 1） - 受信者リストの最終変更日を検索する
+description: エクスポートワークフローの作成チュートリアルのパート 1 では、Experience Platform セグメントから作成された受信者リストの最終変更日を検索するワークフローの作成方法を説明します。
 feature: Data Management, Workflows
 jira: KT-8162
 thumbnail: 336387.jpg
@@ -10,18 +10,27 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+TQID: https://experienceleague.adobe.com/0C-fRmXsfzB-1kePFSNtzUFtqPHDQ1wW1LH2-6Zuw5g
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: 123
 ht-degree: 100%
 
 ---
 
-# 書き出しワークフローの作成（パート 1） - 受信者リストの最終変更日を検索する
+# エクスポートワークフローの作成（パート 1） - 受信者リストの最終変更日を検索する
 
-「書き出しワークフローの作成」チュートリアルの最初の部分では、Experience Platform セグメントから作成された受信者リストの最終変更日を検索するワークフローの作成方法を説明します。
+エクスポートワークフローの作成チュートリアルのパート 1 では、Experience Platform セグメントから作成された受信者リストの最終変更日を検索するワークフローの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450048?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450048?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## Assets
 
@@ -64,4 +73,4 @@ JavaScript で日付範囲を確立：
 
 ## 次のビデオ
 
-[書き出しワークフローの作成（パート 2） - データの抽出、書式設定、外部アカウントへの保存](extract-format-save-data-to-external-account.md)
+[エクスポートワークフローの作成（パート 2） - データの抽出、書式設定、外部アカウントへの保存](extract-format-save-data-to-external-account.md)
