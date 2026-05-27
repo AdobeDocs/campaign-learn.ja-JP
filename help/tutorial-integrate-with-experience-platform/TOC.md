@@ -3,7 +3,7 @@ user-guide-title: Experience Platform との統合
 user-guide-description: Campaign と Experience Cloud のデータをインポートおよびエクスポート、2 つのソリューション間でやり取りできるようにする方法を説明します。
 breadcrumb-title: Experience Platform との統合
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 

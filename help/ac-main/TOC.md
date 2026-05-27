@@ -55,7 +55,7 @@ ht-degree: 94%
    + SMS {#sms}
       + [SMS 配信の作成](/help/send-messages/mobile/create-an-sms-delivery.md)
    + プッシュ {#push}
-      + {hide-from-toc}[&#x200B; モバイルアプリチャネルのインストール &#x200B;](/help/send-messages/mobile/install-the-mobile-app.md)
+      + {hide-from-toc}[ モバイルアプリチャネルのインストール ](/help/send-messages/mobile/install-the-mobile-app.md)
       + {hide-from-toc}[Experience Platform Mobile SDKを使用してプッシュチャネルを設定](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + ダイレクトメール {#direct-mail}
       + [ダイレクトメール配信を作成](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
@@ -94,7 +94,7 @@ ht-degree: 94%
    + [Adobe Experience Manager との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja)
    + [Adobe Experience Platform との統合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ja)
    + [Adobe Target との統合](/help/connect/target-integration.md)
-   + {hide-from-toc}[Microsoft Dynamics 365との統合](/help/connect/dynamics365-integration.md)
+   + {hide-from-toc}[Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)との統合
 + レポート {#reporting}
    + [ビルトインレポートへのアクセス](/help/reporting/access-built-in-reports.md)
    + [記述的な分析レポートの生成](/help/reporting/generate-a-descriptive-analysis-report.md)
