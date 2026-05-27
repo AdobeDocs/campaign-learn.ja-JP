@@ -8,7 +8,7 @@ activity: use
 team: TM
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -16,8 +16,8 @@ ht-degree: 100%
 
 # メール配信アクティビティと配信アクティビティの比較
 
-[!UICONTROL 「配信」タイプのアクティビティ]で配信アクションを作成できます。入力要素を使用して構築できます。
+[!UICONTROL 「配信」タイプのアクティビティ]で配信アクションを作成できます。 入力要素を使用して構築できます。
 
-このビデオでは、メール配信テンプレートのデプロイ方法を説明します。メール配信と配信ワークフローの違いを説明します。
+このビデオでは、メール配信テンプレートのデプロイ方法を説明します。 メール配信と配信ワークフローの違いを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27450?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27450?captions=jpn&quality=12&learn=on){transcript=true}
