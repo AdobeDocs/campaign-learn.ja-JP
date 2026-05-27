@@ -28,4 +28,4 @@ ht-degree: 100%
 
 このビデオでは、アドホックなメール配信テンプレートをデプロイする方法と、メール配信と配信ワークフローの違いについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/338965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444958?captions=jpn&quality=12&learn=on){transcript=true}
