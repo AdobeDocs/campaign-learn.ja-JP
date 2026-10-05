@@ -166,9 +166,9 @@ HTML をアップロードしてメールを作成する方法、E メールデ�
 
 <!--
 CARDS
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs
+   * https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/prepare-send
+   * https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/schedule-sending
+   * https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/delivery-logs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -177,7 +177,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/schedule-sending" title="配信の送信のスケジュール設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="配信の送信のスケジュール設定"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="配信の送信のスケジュール設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -200,7 +200,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/delivery-logs" title="配信ログの監視" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs./media_137d3bd4aa636d469b951f7d658ff24249d058218.png?width=400&format=png&optimize=medium" alt="配信ログの監視"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/monitor/delivery-logs./media_137d3bd4aa636d469b951f7d658ff24249d058218.png?width=400&format=png&optimize=medium" alt="配信ログの監視"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -328,11 +328,11 @@ Adobe Campaign v8 では、Android™ と iOS の両方のプッシュチャネ�
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/personalize
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/conditions
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/offers
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -341,7 +341,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/personalize" title="Campaign でのコンテンツのパーソナライズ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize./media_12f19278a25e98883be1218a564ba7f046bb34d40.png?width=400&format=png&optimize=medium" alt="Campaign でのコンテンツのパーソナライズ"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/personalize./media_12f19278a25e98883be1218a564ba7f046bb34d40.png?width=400&format=png&optimize=medium" alt="Campaign でのコンテンツのパーソナライズ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -364,7 +364,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/conditions" title="条件付きコンテンツの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions./media_1ce24cc4936895252dfddd44820f778e666bdb3b8.png?width=400&format=png&optimize=medium" alt="条件付きコンテンツの作成"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/dynamic-content/conditions./media_1ce24cc4936895252dfddd44820f778e666bdb3b8.png?width=400&format=png&optimize=medium" alt="条件付きコンテンツの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -387,7 +387,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" title="コンテンツテンプレートの操作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates./media_159392b3df68ef802cfe776fdeec81a1441a44571.png?width=400&format=png&optimize=medium" alt="コンテンツテンプレートの操作"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates./media_159392b3df68ef802cfe776fdeec81a1441a44571.png?width=400&format=png&optimize=medium" alt="コンテンツテンプレートの操作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -410,7 +410,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments" title="コンテンツフラグメントの基本を学ぶ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments./media_1710a103fc90af7ee4bd7dd9cc8954a6cadd33042.png?width=400&format=png&optimize=medium" alt="コンテンツフラグメントの基本を学ぶ"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments./media_1710a103fc90af7ee4bd7dd9cc8954a6cadd33042.png?width=400&format=png&optimize=medium" alt="コンテンツフラグメントの基本を学ぶ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -433,7 +433,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/offers" title="メッセージにオファーを追加" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers./media_1007fce0f51861b591751feda18759a4054cfac77.png?width=400&format=png&optimize=medium" alt="メッセージにオファーを追加"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/offers./media_1007fce0f51861b591751feda18759a4054cfac77.png?width=400&format=png&optimize=medium" alt="メッセージにオファーを追加"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -466,13 +466,13 @@ Adobe Campaign には 3 つの異なるタイプの[標準レポート](https://
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports
 {title = Delivery Reports}
 {description = Offer a thorough analysis of each delivery's performance, per channel: success rates, audience engagement, and other essential metrics. They allow you to evaluate the overall effectiveness and impact of your campaign.}
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports
 {title = Campaign Reports}
 {description = Provide detailed information on the performance, effectiveness, and outcomes of your individual deliveries, providing you with a comprehensive overview.}
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports
 {title = Global Reports}
 {description = Offer a consolidated overall summary of traffic and engagement metrics for each channel within your Campaign instance. These reports consist of various widgets, each offering a distinct perspective on your campaign or delivery performance.}
 -->
@@ -483,7 +483,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" title="配信レポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports./media_1cffb8e35bc7db2ef8a0f3126a2980df463807c2c.png?width=400&format=png&optimize=medium" alt="配信レポート"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports./media_1cffb8e35bc7db2ef8a0f3126a2980df463807c2c.png?width=400&format=png&optimize=medium" alt="配信レポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -506,7 +506,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" title="キャンペーンレポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports./media_1f0d073b24318b6cfae4094273be6035dfa63026e.png?width=400&format=png&optimize=medium" alt="キャンペーンレポート"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports./media_1f0d073b24318b6cfae4094273be6035dfa63026e.png?width=400&format=png&optimize=medium" alt="キャンペーンレポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -529,7 +529,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" title="グローバルレポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports./media_1e3aefd7c07e641a8fc0b20ca46dfbb886e5a003b.png?width=400&format=png&optimize=medium" alt="グローバルレポート"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports./media_1e3aefd7c07e641a8fc0b20ca46dfbb886e5a003b.png?width=400&format=png&optimize=medium" alt="グローバルレポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -556,8 +556,8 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-assets
+* https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-content
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -566,7 +566,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-assets" title="Adobe Experience Manager Assets as a Cloud Service でのアセットの管理" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets./media_1ea8e5cd848d37cef0717acdd54909200646ea4b2.png?width=400&format=png&optimize=medium" alt="Adobe Experience Manager Assets as a Cloud Service でのアセットの管理"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-assets./media_1ea8e5cd848d37cef0717acdd54909200646ea4b2.png?width=400&format=png&optimize=medium" alt="Adobe Experience Manager Assets as a Cloud Service でのアセットの管理"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -589,7 +589,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-content" title="Adobe Experience Manager as a Cloud Service でのアセットの管理" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content./media_12fb0d2d1cbd464cc906709dc5456f118b9fdcb4c.png?width=400&format=png&optimize=medium" alt="Adobe Experience Manager as a Cloud Service でのアセットの管理"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign-web/v8/integrations/aem-content./media_12fb0d2d1cbd464cc906709dc5456f118b9fdcb4c.png?width=400&format=png&optimize=medium" alt="Adobe Experience Manager as a Cloud Service でのアセットの管理"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -617,10 +617,10 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa
-* https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-triggers
+* https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-aa
+* https://experienceleague.adobe.com/ja/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud
+* https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-at
+* https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-triggers
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -629,7 +629,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-aa" title="Campaign と Adobe Analytics の操作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa./media_1f07d7a8263e7fa563d2c1ee77e7469c91d3950e7.png?width=400&format=png&optimize=medium" alt="Campaign と Adobe Analytics の操作"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-aa./media_1f07d7a8263e7fa563d2c1ee77e7469c91d3950e7.png?width=400&format=png&optimize=medium" alt="Campaign と Adobe Analytics の操作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -675,7 +675,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-at" title="Campaign と Adobe Target の連携" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at./media_1f00f91acd6755164526f838fa5c078c6331cc18a.png?width=400&format=png&optimize=medium" alt="Campaign と Adobe Target の連携"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/connect/ac-at./media_1f00f91acd6755164526f838fa5c078c6331cc18a.png?width=400&format=png&optimize=medium" alt="Campaign と Adobe Target の連携"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
