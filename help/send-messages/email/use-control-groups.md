@@ -34,4 +34,4 @@ ht-degree: 100%
 
 コントロール母集団の概念を理解し、配信にコントロール母集団を使用する方法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446919?captions=jpn&quality=12&learn=on){transcript=true}

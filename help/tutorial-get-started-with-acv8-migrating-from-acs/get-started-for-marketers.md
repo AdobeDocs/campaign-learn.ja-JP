@@ -50,7 +50,7 @@ Adobe Campaign v8 には、クライアントコンソールまたは web ユー
 
 ## Campaign web ユーザーインターフェイスへのアクセスと探索
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453423?captions=jpn&quality=12&learn=on){transcript=true}
 
 * [インターフェイスの確認](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/start/user-interface)
 * [リストの参照とフィルタリング](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/start/list-filters)
@@ -69,7 +69,7 @@ Campaign v8 でオーディエンスを作成および管理する一般的な�
 
 Campaign web ユーザーインターフェイスを使用してプロファイルにアクセス、管理および探索する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448365?captions=jpn&quality=12&learn=on){transcript=true}
 
 詳しくは、[プロファイルの基本を学ぶ](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}を参照してください。
 
@@ -77,7 +77,7 @@ Campaign web ユーザーインターフェイスを使用してプロファイ�
 
 オーディエンスの作成と管理方法、配信用のオーディエンスの選択方法、コントロール母集団の定義方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453203?captions=jpn&quality=12&learn=on){transcript=true}
 
 詳しくは、[オーディエンスの基本を学ぶ](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}を参照してください。
 
@@ -133,7 +133,7 @@ Adobe Campaign Web を使用すると、ニュースレターなどのサービ�
 
 1. ワークフローの仕組みと、ターゲティングワークフローの作成方法を説明します。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453970?captions=jpn&quality=12&learn=on){transcript=true}
 
 1. [ワークフローアクティビティの操作](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [ワークフローのガードレールと制限](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -144,23 +144,23 @@ Adobe Campaign Web を使用すると、ニュースレターなどのサービ�
 
 メール配信をゼロから作成し、オーディエンスの定義、コンテンツの設計、プレビューのシミュレートを行い、配達確認を送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454006?captions=jpn&quality=12&learn=on){transcript=true}
 
 #### &#x200B;1. コンテンツのデザインと定義
 
 メールデザイナーの操作方法について説明します。 メールをゼロから構造化して設計する方法と、メールをパーソナライズしてテストする方法ついて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453563?captions=jpn&quality=12&learn=on){transcript=true}
 
 HTML をアップロードしてメールを作成する方法、E メールデザイナーと互換性を持たせる方法、テンプレートに変換する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447033?captions=jpn&quality=12&learn=on){transcript=true}
 
 #### &#x200B;2. プレビューとテスト
 
 メールメッセージのコンテンツとパーソナライゼーションをプレビューし、テスト配信（配達確認）を送信し、一般的なデスクトップ、モバイル、web ベースのクライアントでメールのレンダリングを確認する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450338?captions=jpn&quality=12&learn=on){transcript=true}
 
 #### &#x200B;3. メールの送信とログの確認
 

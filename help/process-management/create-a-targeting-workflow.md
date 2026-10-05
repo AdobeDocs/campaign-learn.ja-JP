@@ -45,4 +45,4 @@ Adobe Campaign では、ワークフローを使用して、ターゲティン�
 
 ターゲティングワークフローを使用して複数の配信ターゲットを定義する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450189?captions=jpn&quality=12&learn=on){transcript=true}

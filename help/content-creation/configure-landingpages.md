@@ -41,4 +41,4 @@ Adobe Campaign では、さまざまなランディングページ（オンラ�
 
 このビデオでは、環境設定センターを作成して、Adobe Campaign の web アプリケーションエディターを操作する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450215?captions=jpn&quality=12&learn=on){transcript=true}

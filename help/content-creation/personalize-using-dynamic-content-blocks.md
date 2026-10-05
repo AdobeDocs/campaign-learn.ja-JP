@@ -45,4 +45,4 @@ Adobe Campaign では、メッセージのコンテンツや外観をパーソ�
 
 動的コンテンツブロックの作成方法と、動的コンテンツブロックを使用してメール配信のコンテンツをパーソナライズする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449007?captions=jpn&quality=12&learn=on){transcript=true}
