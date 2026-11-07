@@ -46,4 +46,4 @@ Campaign v8 のユーザー権限を設定および管理する方法につい�
 * ネームド権限
 * フォルダーレベルでの権限の追加
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505211/?captions=jpn&learn=on)

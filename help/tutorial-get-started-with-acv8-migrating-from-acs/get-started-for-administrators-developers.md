@@ -70,7 +70,7 @@ ht-degree: 100%
    * オペレーターグループを作成し、ネームド権限を割り当てる
    * 製品プロファイル ⇄ オペレーターグループのマッピング
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505211/?captions=jpn&learn=on)
 
 詳細なステップバイステップガイドについては、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"}を参照してください。
 
